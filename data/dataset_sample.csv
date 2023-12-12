@@ -1,0 +1,1000 @@
+siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_naturalgaskWh,is_using_steamusekWh,largestpropertyusetypegfa,numberofbuildings,numberoffloors,propertygfabuildings,buildingtype,primarypropertytype
+7226362.0,250.0,1927.0,1,1,1,88434.0,1.0,12.0,88434,NonResidential,Hotel
+8387933.0,296.0,1996.0,1,1,0,83880.0,1.0,11.0,88502,NonResidential,Hotel
+72587024.0,2089.0,1969.0,1,1,1,756493.0,1.0,41.0,759392,NonResidential,Hotel
+6794584.0,286.0,1926.0,1,1,1,61320.0,1.0,10.0,61320,NonResidential,Hotel
+14172606.0,505.0,1980.0,1,1,0,123445.0,1.0,18.0,113580,NonResidential,Hotel
+12086616.0,302.0,1999.0,1,1,0,88830.0,1.0,2.0,60090,Nonresidential COS,Other
+5758795.0,176.0,1926.0,1,1,0,81352.0,1.0,11.0,83008,NonResidential,Hotel
+6298132.0,222.0,1926.0,1,1,1,102761.0,1.0,8.0,102761,NonResidential,Other
+13723820.0,392.0,1904.0,1,1,0,163984.0,1.0,15.0,163984,NonResidential,Hotel
+4573777.0,151.0,1910.0,1,1,1,56132.0,1.0,6.0,62216,Multifamily MR (5-9),Mid-Rise Multifamily
+16016644.0,691.0,1969.0,1,1,1,133884.0,1.0,11.0,133884,NonResidential,Hotel
+26941110.0,741.0,1998.0,1,1,1,336640.0,1.0,25.0,272015,NonResidential,Hotel
+6596058.0,328.0,1928.0,1,1,1,65009.0,1.0,9.0,65009,NonResidential,Hotel
+22325364.0,649.0,1980.0,1,1,1,295511.0,1.0,33.0,258352,NonResidential,Hotel
+10750010.0,511.0,1922.0,1,1,1,67390.0,1.0,11.0,66990,NonResidential,Hotel
+18588860.0,181.0,2004.0,1,0,1,364913.0,1.0,11.0,355000,Nonresidential COS,Other
+9956396.0,434.0,1930.0,1,1,1,90000.0,1.0,6.0,103911,NonResidential,Other
+33556756.0,803.0,1983.0,1,1,0,348329.0,1.0,28.0,331281,NonResidential,Hotel
+7606084.0,273.0,1907.0,1,1,1,16442.0,1.0,5.0,57452,NonResidential,Mixed Use Property
+10154608.0,349.0,1916.0,1,1,1,104352.0,1.0,10.0,104352,NonResidential,Hotel
+44984468.0,1265.0,1916.0,1,1,0,537150.0,1.0,10.0,540360,NonResidential,Other
+47859812.0,1699.0,1985.0,1,1,0,385274.0,1.0,19.0,385274,NonResidential,Other
+3663534.0,90.0,2001.0,1,1,0,58006.0,1.0,6.0,58006,NonResidential,Hotel
+11343686.0,388.0,1928.0,1,1,0,125000.0,1.0,7.0,126593,NonResidential,University
+1310237.0,9.0,1930.0,1,0,0,67224.0,1.0,2.0,67224,NonResidential,Other
+5328052.0,257.0,1991.0,1,1,0,112676.0,1.0,8.0,128375,NonResidential,Hotel
+11061916.0,329.0,2001.0,1,1,0,128909.0,1.0,10.0,133585,NonResidential,Hotel
+4456714.0,128.0,1978.0,1,1,0,47994.0,1.0,5.0,52210,NonResidential,Hotel
+4145920.0,158.0,1906.0,1,1,0,40943.0,1.0,3.0,87262,NonResidential,Small- and Mid-Sized Office
+6668568.0,215.0,1994.0,1,1,0,81871.0,1.0,4.0,81871,NonResidential,Hotel
+318365.0,4.0,1955.0,1,1,0,26225.0,1.0,2.0,110356,NonResidential,Self-Storage Facility
+448385312.0,16871.0,1992.0,1,1,0,757027.0,1.0,3.0,494835,Campus,Mixed Use Property
+44731160.0,312.0,1961.0,1,0,0,616000.0,3.0,2.0,714095,NonResidential,Warehouse
+1650279.0,31.0,1990.0,1,1,0,54986.0,1.0,2.0,54986,SPS-District K-12,K-12 School
+6186462.0,131.0,1961.0,1,1,0,55586.0,1.0,2.0,94900,NonResidential,Small- and Mid-Sized Office
+2951331.0,84.0,1900.0,1,1,0,51029.0,1.0,2.0,52554,NonResidential,Small- and Mid-Sized Office
+6994740.0,248.0,1954.0,1,1,0,175015.0,1.0,3.0,175015,NonResidential,K-12 School
+2158629.0,45.0,1911.0,1,1,0,38439.0,1.0,3.0,70586,NonResidential,Self-Storage Facility
+16163194.0,295.0,1969.0,1,1,0,348630.0,1.0,24.0,126240,NonResidential,Hotel
+9536161.0,66.0,1973.0,1,0,0,103362.0,1.0,5.0,168115,NonResidential,Large Office
+1247362.0,33.0,1920.0,1,1,0,51747.0,1.0,2.0,57428,NonResidential,Other
+5071974.0,35.0,1910.0,1,0,0,34947.0,1.0,8.0,59400,NonResidential,Small- and Mid-Sized Office
+15026196.0,584.0,1926.0,1,1,0,23500.0,1.0,2.0,52549,NonResidential,Mixed Use Property
+4841348.0,59.0,1930.0,1,1,0,83591.0,1.0,20.0,88591,NonResidential,Hotel
+80469216.0,2452.0,1982.0,1,1,1,994212.0,1.0,34.0,847518,NonResidential,Hotel
+5348309.0,134.0,1985.0,1,1,0,41340.0,1.0,7.0,71150,NonResidential,Hotel
+5401278.0,227.0,1908.0,1,1,0,88360.0,1.0,7.0,122810,NonResidential,Hotel
+5284344.0,145.0,1959.0,1,1,0,70627.0,1.0,5.0,70627,NonResidential,Hotel
+6715187.0,200.0,2000.0,1,1,0,107547.0,1.0,7.0,115718,NonResidential,Hotel
+5827596.0,162.0,1997.0,1,1,0,88490.0,1.0,6.0,88100,NonResidential,Hotel
+6836900.0,153.0,1998.0,1,1,0,155602.0,1.0,6.0,118858,NonResidential,Hotel
+3234788.0,146.0,1911.0,1,1,0,56072.0,1.0,3.0,56072,NonResidential,K-12 School
+5337334.0,172.0,1999.0,1,1,0,78051.0,1.0,4.0,78051,NonResidential,Hotel
+3375211.0,88.0,1962.0,1,1,0,54984.0,1.0,2.0,54984,NonResidential,Small- and Mid-Sized Office
+42792072.0,1727.0,1922.0,1,1,0,296313.0,1.0,5.0,217603,NonResidential,Senior Care Community
+16402563.0,609.0,1970.0,1,1,0,93397.0,1.0,2.0,93397,NonResidential,Senior Care Community
+3706100.0,67.0,2008.0,1,1,0,63371.0,1.0,6.0,63371,NonResidential,Hotel
+16701055.0,431.0,1965.0,1,1,0,179014.0,0.0,3.0,179014,NonResidential,Medical Office
+7258758.0,263.0,1908.0,1,1,0,76631.0,1.0,7.0,76631,NonResidential,Hotel
+15473117.0,482.0,1983.0,1,0,1,40174.0,1.0,6.0,90439,NonResidential,Mixed Use Property
+1049749.0,39.0,1929.0,1,1,0,72072.0,1.0,2.0,58320,NonResidential,Retail Store
+13795954.0,139.0,2010.0,1,1,0,261826.0,1.0,5.0,316306,NonResidential,Large Office
+19459304.0,527.0,1990.0,1,1,0,235788.0,1.0,7.0,238097,NonResidential,Hotel
+23658978.0,607.0,1962.0,1,1,1,368000.0,1.0,1.0,389000,Nonresidential COS,Other
+8141156.0,344.0,1962.0,1,0,1,65000.0,1.0,1.0,91213,Nonresidential COS,Other
+20955026.0,804.0,1938.0,1,0,1,278500.0,1.0,5.0,396085,Nonresidential COS,Other
+39605888.0,618.0,2010.0,1,1,0,598801.0,1.0,12.0,571329,NonResidential,Large Office
+2726369.0,102.0,1962.0,1,0,1,52000.0,1.0,2.0,52000,Nonresidential COS,Other
+875943.0,6.0,1928.0,1,0,0,108000.0,1.0,1.0,60696,Nonresidential COS,Other
+20723248.0,491.0,1928.0,1,0,1,296000.0,1.0,2.0,262048,Nonresidential COS,Other
+4166306.0,29.0,1986.0,1,0,0,45900.0,0.0,2.0,63888,NonResidential,Small- and Mid-Sized Office
+36667044.0,674.0,2010.0,1,1,0,729584.0,1.0,6.0,616891,NonResidential,Large Office
+3476212.0,49.0,1970.0,1,1,0,48546.0,1.0,4.0,50283,NonResidential,Small- and Mid-Sized Office
+5155568.0,152.0,2002.0,1,1,0,59976.0,1.0,6.0,59976,NonResidential,Hotel
+5448975.0,191.0,1962.0,1,1,0,50017.0,2.0,4.0,50017,NonResidential,Hotel
+2646879.0,79.0,1923.0,1,1,0,67743.0,1.0,3.0,67743,NonResidential,K-12 School
+6219842.0,243.0,1908.0,1,1,0,194104.0,1.0,6.0,194104,NonResidential,K-12 School
+4897760.0,34.0,2003.0,1,0,0,63681.0,1.0,3.0,63681,NonResidential,Small- and Mid-Sized Office
+6357632.0,44.0,1941.0,1,0,0,49000.0,1.0,4.0,56521,NonResidential,Other
+4253578.0,134.0,1929.0,1,1,0,119146.0,1.0,2.0,206934,NonResidential,Other
+3611538.0,127.0,2001.0,1,1,0,51390.0,1.0,4.0,51390,NonResidential,Hotel
+11765682.0,444.0,1959.0,1,1,0,245587.0,1.0,1.0,245587,SPS-District K-12,K-12 School
+65336980.0,2056.0,2004.0,1,1,0,250000.0,1.0,11.0,230638,NonResidential,Other
+3242458.0,89.0,2002.0,1,1,0,70609.0,1.0,3.0,69138,NonResidential,Hotel
+6505995.0,142.0,1904.0,1,1,0,190980.0,1.0,5.0,190980,NonResidential,Hotel
+14641502.0,429.0,1998.0,1,1,1,189750.0,1.0,6.0,284100,Nonresidential COS,Other
+68090728.0,1990.0,1954.0,1,1,0,302661.0,4.0,5.0,285333,NonResidential,Hospital
+9363374.0,177.0,2006.0,1,1,0,42755.0,1.0,4.0,61156,Nonresidential COS,Other
+2010455.0,46.0,1910.0,1,1,0,58000.0,1.0,4.0,59000,NonResidential,Other
+7946961.0,228.0,1996.0,1,1,0,113702.0,1.0,4.0,148022,NonResidential,Hotel
+3059758.0,74.0,1915.0,1,1,0,64820.0,1.0,3.0,63330,NonResidential,University
+38301744.0,866.0,1970.0,1,1,0,483000.0,27.0,2.0,441071,Campus,University
+16319835.0,222.0,2002.0,1,1,0,92300.0,1.0,2.0,96300,NonResidential,Small- and Mid-Sized Office
+7475578.0,204.0,1950.0,1,1,0,68359.0,1.0,1.0,67356,Nonresidential COS,Other
+4253370.0,61.0,1958.0,1,1,0,25765.0,1.0,1.0,54765,NonResidential,Small- and Mid-Sized Office
+1950092.0,100.0,2009.0,1,1,0,46483.0,1.0,5.0,89821,NonResidential,Other
+4116872.0,104.0,1980.0,1,1,0,52611.0,1.0,2.0,52611,NonResidential,University
+4448582.0,129.0,2001.0,1,1,0,135520.0,1.0,4.0,102100,NonResidential,Residence Hall
+8355988.0,223.0,2011.0,1,1,0,238550.0,1.0,2.0,236758,SPS-District K-12,K-12 School
+13071700.0,422.0,1971.0,1,1,1,137565.0,3.0,6.0,250981,NonResidential,Other
+3242078.0,50.0,2007.0,1,1,0,30000.0,1.0,3.0,64015,NonResidential,Small- and Mid-Sized Office
+27717034.0,723.0,1951.0,1,1,0,505103.0,1.0,1.0,530039,NonResidential,Retail Store
+7265178.0,232.0,1964.0,1,1,0,47012.0,1.0,3.0,54224,NonResidential,Other
+8765978.0,66.0,1965.0,1,1,0,122000.0,1.0,4.0,124342,NonResidential,Retail Store
+253832464.0,8146.0,1953.0,1,1,0,879000.0,6.0,10.0,879000,NonResidential,Hospital
+3191228.0,84.0,1996.0,1,1,0,28636.0,1.0,3.0,55442,NonResidential,Other
+1381590.0,51.0,1910.0,1,1,0,85521.0,1.0,5.0,84870,NonResidential,Self-Storage Facility
+35891484.0,363.0,1970.0,1,1,0,667335.0,11.0,2.0,582447,Campus,University
+2100098.0,69.0,1904.0,1,1,0,114297.0,1.0,4.0,114297,NonResidential,Warehouse
+6744317.0,297.0,1937.0,1,1,0,234144.0,1.0,1.0,234144,NonResidential,Warehouse
+2944296.0,36.0,1966.0,1,1,0,65425.0,1.0,1.0,64984,NonResidential,Retail Store
+9230223.0,369.0,1965.0,1,1,0,67782.0,1.0,1.0,67745,NonResidential,Retail Store
+12265516.0,273.0,2010.0,1,1,0,367884.0,1.0,2.0,367884,SPS-District K-12,K-12 School
+1851260.0,59.0,1973.0,1,1,0,56000.0,1.0,3.0,56000,NonResidential,Other
+1377520.0,49.0,1969.0,1,1,0,52088.0,1.0,2.0,52088,NonResidential,Self-Storage Facility
+9373179.0,310.0,1998.0,1,1,0,123920.0,1.0,5.0,93920,NonResidential,Hotel
+7548807.0,226.0,1900.0,1,1,0,43000.0,1.0,1.0,50000,Nonresidential COS,Other
+430474.0,3.0,1926.0,1,0,0,42345.0,1.0,2.0,50292,Nonresidential COS,Warehouse
+11171988.0,338.0,1998.0,1,1,0,141591.0,1.0,7.0,153315,NonResidential,Hotel
+9472358.0,176.0,1957.0,1,1,0,57968.0,1.0,2.0,91130,Nonresidential COS,Small- and Mid-Sized Office
+6197825.0,208.0,1968.0,1,1,0,64893.0,1.0,4.0,64893,NonResidential,Hotel
+1677002.0,28.0,1900.0,1,1,0,34416.0,1.0,3.0,44558,NonResidential,Small- and Mid-Sized Office
+59757440.0,893.0,1999.0,1,1,0,1585960.0,1.0,6.0,1258280,NonResidential,Other
+9436408.0,96.0,1924.0,1,1,0,117476.0,1.0,2.0,179161,Nonresidential COS,Distribution Center
+3928695.0,27.0,1965.0,1,0,0,40831.0,1.0,2.0,58640,Nonresidential COS,Warehouse
+58761304.0,1247.0,1999.0,1,1,0,1172127.0,1.0,3.0,1172127,NonResidential,Other
+12726789.0,388.0,2005.0,1,1,0,135006.0,1.0,9.0,153882,NonResidential,Hotel
+2411402.0,17.0,1916.0,1,0,0,79600.0,0.0,4.0,79600,NonResidential,Warehouse
+53466684.0,749.0,1980.0,1,1,0,240984.0,14.0,2.0,302494,Campus,Large Office
+9134963.0,162.0,2008.0,1,1,0,335109.0,1.0,6.0,84739,NonResidential,Other
+10557910.0,93.0,2002.0,1,1,0,58563.0,1.0,4.0,110785,NonResidential,Mixed Use Property
+10040121.0,279.0,2003.0,1,1,0,81740.0,1.0,7.0,116947,Multifamily MR (5-9),Mid-Rise Multifamily
+65047284.0,1638.0,1999.0,1,1,0,495536.0,1.0,0.0,934292,NonResidential,Hotel
+143423024.0,4906.0,1990.0,1,1,0,601615.0,6.0,5.0,597519,NonResidential,Hospital
+549181.0,10.0,1991.0,1,1,0,67236.0,1.0,3.0,67236,NonResidential,Warehouse
+293090784.0,10735.0,2000.0,1,1,1,1350182.0,9.0,8.0,1158691,NonResidential,Hospital
+10105379.0,194.0,1999.0,1,1,0,55259.0,1.0,5.0,90185,NonResidential,Senior Care Community
+4189569.0,145.0,1909.0,1,1,0,50350.0,1.0,6.0,51976,Multifamily MR (5-9),Mid-Rise Multifamily
+1377627.0,73.0,1928.0,1,1,0,55500.0,1.0,2.0,55653,NonResidential,K-12 School
+11935719.0,470.0,1931.0,1,1,0,106860.0,1.0,16.0,106860,NonResidential,Hotel
+3147042.0,49.0,1972.0,1,1,0,47079.0,1.0,5.0,50759,NonResidential,Small- and Mid-Sized Office
+2439485.0,85.0,1952.0,1,1,0,56772.0,1.0,2.0,56772,NonResidential,Worship Facility
+4854430.0,150.0,1952.0,1,1,0,103000.0,1.0,3.0,103000,NonResidential,Worship Facility
+6057410.0,57.0,1914.0,1,1,0,109754.0,1.0,7.0,128766,NonResidential,Other
+5572503.0,255.0,1913.0,1,0,1,63934.0,1.0,9.0,107572,NonResidential,Residence Hall
+62197176.0,434.0,1955.0,1,0,0,203000.0,1.0,15.0,230880,NonResidential,Other
+1986611.0,51.0,1917.0,1,1,0,56617.0,1.0,4.0,56617,Multifamily LR (1-4),Low-Rise Multifamily
+2473962.0,60.0,2009.0,1,1,0,43673.0,1.0,6.0,56745,Multifamily MR (5-9),Mid-Rise Multifamily
+2772125.0,24.0,2003.0,1,1,0,24600.0,1.0,4.0,67920,Multifamily LR (1-4),Low-Rise Multifamily
+3267564.0,101.0,1973.0,1,1,0,77810.0,1.0,1.0,76086,NonResidential,Other
+28731502.0,661.0,1927.0,1,1,0,146741.0,1.0,5.0,151000,NonResidential,Medical Office
+25453690.0,1060.0,1961.0,1,1,0,122309.0,1.0,4.0,122309,NonResidential,Hotel
+24017770.0,639.0,1995.0,1,1,0,217088.0,4.0,3.0,215476,Campus,Other
+26659244.0,781.0,2003.0,1,1,0,277000.0,1.0,8.0,215473,NonResidential,Hotel
+14833476.0,302.0,1980.0,1,1,0,69400.0,1.0,2.0,69400,Nonresidential COS,Other
+10394330.0,377.0,1900.0,1,1,0,32494.0,1.0,1.0,62900,NonResidential,Mixed Use Property
+1380294.0,44.0,1914.0,1,0,1,33000.0,1.0,4.0,56500,NonResidential,Small- and Mid-Sized Office
+3785282.0,26.0,2008.0,1,0,0,159372.0,1.0,4.0,203504,NonResidential,Warehouse
+9788717.0,68.0,1968.0,1,0,0,100734.0,0.0,3.0,74003,NonResidential,Large Office
+5007401.0,68.0,1981.0,1,1,0,62108.0,1.0,4.0,59158,NonResidential,Small- and Mid-Sized Office
+18661606.0,149.0,1978.0,1,1,0,173786.0,1.0,12.0,212210,NonResidential,Large Office
+24755086.0,173.0,1989.0,1,0,0,383942.0,1.0,25.0,369996,NonResidential,Large Office
+40062888.0,398.0,1925.0,1,1,1,361107.0,1.0,10.0,693450,NonResidential,Retail Store
+40847752.0,313.0,1976.0,1,1,0,622034.0,1.0,33.0,791396,NonResidential,Large Office
+30985420.0,359.0,2000.0,1,1,0,542461.0,1.0,23.0,542671,NonResidential,Large Office
+3444270.0,171.0,1926.0,1,0,1,45260.0,1.0,10.0,55652,NonResidential,Small- and Mid-Sized Office
+7739699.0,100.0,1930.0,1,1,0,142034.0,1.0,17.0,174790,NonResidential,Large Office
+3757006.0,26.0,1916.0,1,0,0,51557.0,1.0,5.0,73399,NonResidential,Small- and Mid-Sized Office
+14633233.0,563.0,1969.0,1,0,1,226454.0,1.0,20.0,233517,NonResidential,Large Office
+27018020.0,229.0,2009.0,1,1,0,582725.0,1.0,25.0,529375,NonResidential,Large Office
+8580279.0,222.0,1968.0,1,0,1,161000.0,1.0,12.0,206000,NonResidential,Large Office
+39523852.0,276.0,2009.0,1,0,0,743562.0,1.0,36.0,669915,NonResidential,Large Office
+17867002.0,131.0,1990.0,1,1,0,311736.0,1.0,16.0,339240,NonResidential,Large Office
+3903260.0,52.0,1900.0,1,0,1,64712.0,1.0,7.0,89550,NonResidential,Small- and Mid-Sized Office
+4178234.0,32.0,1900.0,1,1,0,82355.0,1.0,6.0,89355,NonResidential,Small- and Mid-Sized Office
+18576900.0,213.0,1922.0,1,0,1,388934.0,1.0,15.0,388934,NonResidential,Large Office
+10062436.0,70.0,1929.0,1,0,0,348969.0,1.0,22.0,384302,NonResidential,Large Office
+24906132.0,940.0,1958.0,1,0,1,236827.0,1.0,17.0,293925,NonResidential,Large Office
+44683660.0,319.0,1983.0,1,1,0,1011135.0,1.0,47.0,1323055,NonResidential,Large Office
+24603420.0,172.0,1986.0,1,0,0,470416.0,1.0,41.0,460489,NonResidential,Large Office
+1835805.0,47.0,1950.0,1,0,1,89699.0,1.0,6.0,89699,NonResidential,Small- and Mid-Sized Office
+3743228.0,26.0,1968.0,1,0,0,84838.0,1.0,8.0,94948,NonResidential,Large Office
+18221224.0,140.0,1991.0,1,0,1,522667.0,1.0,29.0,438072,NonResidential,Large Office
+32552428.0,231.0,1980.0,1,1,0,606050.0,1.0,34.0,614158,NonResidential,Large Office
+9641043.0,219.0,1972.0,1,0,1,182540.0,1.0,14.0,162993,NonResidential,Large Office
+45163308.0,628.0,1969.0,1,1,0,808980.0,1.0,49.0,754455,NonResidential,Large Office
+41213584.0,287.0,2002.0,1,0,0,765351.0,1.0,37.0,888049,NonResidential,Large Office
+69519808.0,547.0,1973.0,1,0,1,581558.0,1.0,42.0,446184,NonResidential,Large Office
+8921778.0,176.0,1907.0,1,0,1,161762.0,1.0,8.0,201480,NonResidential,Large Office
+61576184.0,429.0,1990.0,1,0,0,1191115.0,1.0,63.0,1195387,Nonresidential COS,Large Office
+21169502.0,380.0,2001.0,1,1,0,269284.0,1.0,14.0,310490,Nonresidential COS,Large Office
+13214416.0,299.0,2003.0,1,1,0,160418.0,1.0,8.0,168870,Nonresidential COS,Large Office
+13843866.0,216.0,2006.0,1,1,0,319539.0,1.0,13.0,319539,NonResidential,Large Office
+2746561.0,70.0,1909.0,1,1,0,96582.0,1.0,7.0,106099,NonResidential,Large Office
+6461937.0,89.0,1978.0,1,1,0,89200.0,1.0,2.0,89200,NonResidential,Retail Store
+28450436.0,198.0,1971.0,1,0,0,474546.0,1.0,23.0,474546,NonResidential,Large Office
+30038490.0,209.0,1969.0,1,0,0,36000.0,1.0,5.0,36000,NonResidential,Other
+4728488.0,119.0,1961.0,1,1,0,79555.0,0.0,5.0,99005,NonResidential,Small- and Mid-Sized Office
+4965408.0,21.0,1983.0,1,1,1,197040.0,1.0,6.0,78852,NonResidential,Other
+4426136.0,31.0,2002.0,1,0,0,95943.0,1.0,6.0,90803,NonResidential,Large Office
+7046346.0,49.0,2002.0,1,0,0,145754.0,1.0,5.0,137929,NonResidential,Large Office
+873222.0,6.0,1964.0,1,0,0,93660.0,1.0,5.0,93660,NonResidential,Self-Storage Facility
+24224888.0,169.0,1980.0,1,0,0,348270.0,1.0,18.0,349055,NonResidential,Large Office
+9765777.0,72.0,2000.0,1,1,0,182820.0,1.0,11.0,185760,NonResidential,Mixed Use Property
+26823218.0,197.0,1988.0,1,1,0,367623.0,1.0,20.0,378769,NonResidential,Large Office
+25307744.0,176.0,1979.0,1,0,0,424044.0,1.0,24.0,427155,NonResidential,Large Office
+8218156.0,91.0,1980.0,1,1,0,42389.0,1.0,4.0,70647,NonResidential,Mixed Use Property
+20361158.0,142.0,1982.0,1,0,0,274002.0,1.0,6.0,272410,NonResidential,Large Office
+14913424.0,104.0,2002.0,1,0,0,191814.0,1.0,6.0,203880,NonResidential,Large Office
+5357833.0,46.0,1947.0,1,1,0,146157.0,1.0,3.0,144118,NonResidential,Large Office
+29949248.0,209.0,1984.0,1,0,0,158681.0,1.0,8.0,191117,NonResidential,Large Office
+14293972.0,384.0,1956.0,1,1,0,61666.0,1.0,1.0,60880,NonResidential,Supermarket / Grocery Store
+2933289.0,25.0,1900.0,1,1,0,50328.0,1.0,5.0,50176,NonResidential,Small- and Mid-Sized Office
+23262244.0,741.0,1912.0,1,1,1,245028.0,1.0,42.0,304346,NonResidential,Large Office
+1809102.0,79.0,1977.0,1,1,0,119200.0,1.0,1.0,128800,NonResidential,Warehouse
+13656587.0,355.0,1927.0,1,0,1,166919.0,1.0,8.0,321945,NonResidential,Large Office
+18967014.0,531.0,1964.0,1,1,1,256299.0,1.0,22.0,336330,NonResidential,Large Office
+27076922.0,1085.0,1960.0,1,0,1,286538.0,1.0,21.0,298426,NonResidential,Large Office
+48479988.0,338.0,1976.0,1,0,0,718473.0,1.0,42.0,635824,NonResidential,Large Office
+56485204.0,2574.0,1923.0,1,1,1,542305.0,1.0,12.0,542305,NonResidential,Hotel
+11688601.0,162.0,1980.0,1,1,0,191940.0,1.0,2.0,291940,NonResidential,Retail Store
+4383100.0,116.0,1970.0,1,1,0,33450.0,0.0,1.0,88400,NonResidential,Mixed Use Property
+930612.0,49.0,1960.0,1,1,0,51116.0,1.0,1.0,52311,NonResidential,Warehouse
+3085814.0,22.0,2009.0,1,0,0,74831.0,1.0,5.0,71421,NonResidential,Other
+5803409.0,40.0,2001.0,1,0,0,103494.0,1.0,5.0,106465,NonResidential,Large Office
+3989399.0,70.0,1973.0,1,1,0,49395.0,1.0,1.0,52500,NonResidential,Warehouse
+4560492.0,157.0,1959.0,1,1,0,29001.0,1.0,2.0,57300,NonResidential,Warehouse
+18102026.0,224.0,1916.0,1,1,0,305233.0,1.0,6.0,350310,NonResidential,Large Office
+53079164.0,589.0,1988.0,1,1,1,994116.0,1.0,55.0,1115000,NonResidential,Large Office
+33729336.0,1511.0,1930.0,1,1,1,310000.0,1.0,21.0,305548,NonResidential,Hotel
+56606136.0,530.0,1989.0,1,1,0,1002403.0,1.0,46.0,1023998,NonResidential,Large Office
+6423556.0,194.0,1958.0,1,0,1,144570.0,1.0,10.0,135918,NonResidential,Large Office
+5252131.0,37.0,1914.0,1,0,0,35694.0,1.0,4.0,79957,NonResidential,Retail Store
+18848780.0,131.0,1983.0,1,0,0,411301.0,1.0,29.0,500000,NonResidential,Large Office
+6029020.0,65.0,1926.0,1,1,1,92006.0,0.0,10.0,132326,NonResidential,Large Office
+7335906.0,51.0,1984.0,1,0,0,83485.0,1.0,6.0,96630,NonResidential,Large Office
+37785552.0,1468.0,1973.0,1,1,1,332067.0,0.0,19.0,272787,NonResidential,Hotel
+11651200.0,318.0,1910.0,1,1,1,87391.0,1.0,10.0,130513,NonResidential,Large Office
+2586116.0,18.0,1920.0,1,0,0,41958.0,1.0,8.0,60660,NonResidential,Small- and Mid-Sized Office
+6366084.0,203.0,1929.0,1,0,1,124508.0,1.0,14.0,137350,NonResidential,Large Office
+5446624.0,238.0,1929.0,1,0,1,125473.0,1.0,15.0,151039,NonResidential,Large Office
+52226204.0,793.0,1985.0,1,1,1,643083.0,1.0,30.0,620338,NonResidential,Large Office
+3518460.0,75.0,1906.0,1,1,0,56747.0,1.0,4.0,63540,NonResidential,Small- and Mid-Sized Office
+6962073.0,49.0,1927.0,1,0,0,87925.0,1.0,10.0,130893,NonResidential,Large Office
+3009464.0,21.0,1910.0,1,0,0,39960.0,1.0,5.0,79920,NonResidential,Mixed Use Property
+14940504.0,316.0,1908.0,1,1,0,44078.0,1.0,4.0,137400,Campus,Mixed Use Property
+9671619.0,185.0,1996.0,1,1,0,64821.0,1.0,6.0,61423,NonResidential,Other
+7273156.0,148.0,1996.0,1,1,0,166960.0,0.0,4.0,100375,NonResidential,Other
+49517704.0,526.0,1989.0,1,1,1,1314475.0,1.0,56.0,1215718,NonResidential,Large Office
+26689658.0,216.0,1980.0,1,1,0,748011.0,1.0,36.0,794592,NonResidential,Large Office
+19397324.0,135.0,1971.0,1,0,0,342952.0,1.0,21.0,363100,NonResidential,Large Office
+4757300.0,33.0,1986.0,1,0,0,104788.0,1.0,12.0,100717,NonResidential,Large Office
+4549892.0,32.0,1999.0,1,0,0,70090.0,1.0,4.0,70000,NonResidential,Small- and Mid-Sized Office
+13329024.0,93.0,1998.0,1,0,0,150969.0,1.0,11.0,189629,NonResidential,Large Office
+14436982.0,101.0,1985.0,1,0,0,146689.0,1.0,12.0,155500,NonResidential,Other
+5327250.0,282.0,1923.0,1,0,1,93879.0,1.0,11.0,102846,NonResidential,Large Office
+2429021.0,44.0,1925.0,1,1,0,38880.0,1.0,4.0,52800,NonResidential,Small- and Mid-Sized Office
+20779796.0,419.0,1913.0,1,0,1,155000.0,3.0,10.0,258497,Campus,Mixed Use Property
+17666646.0,329.0,1929.0,1,1,1,509342.0,1.0,8.0,861702,NonResidential,Retail Store
+19295226.0,249.0,1999.0,1,0,1,206950.0,1.0,5.0,109550,NonResidential,Other
+4169432.0,131.0,1988.0,1,0,1,46710.0,1.0,9.0,46710,NonResidential,Other
+13911761.0,201.0,1945.0,1,1,1,162000.0,1.0,3.0,162000,NonResidential,Medical Office
+21156670.0,147.0,1992.0,1,0,0,270384.0,1.0,14.0,282363,NonResidential,Medical Office
+55073120.0,456.0,2001.0,1,1,0,164332.0,1.0,6.0,200783,NonResidential,Mixed Use Property
+4695139.0,33.0,1982.0,1,0,0,72066.0,1.0,4.0,73096,NonResidential,Large Office
+75073888.0,531.0,2001.0,1,1,0,104922.0,1.0,6.0,108912,NonResidential,Mixed Use Property
+9474745.0,244.0,1979.0,1,1,0,109017.0,1.0,5.0,79608,NonResidential,Hotel
+16373232.0,114.0,1981.0,1,0,0,228504.0,1.0,5.0,237282,NonResidential,Large Office
+1987935.0,14.0,2001.0,1,0,0,123061.0,1.0,1.0,123061,NonResidential,Warehouse
+2756215.0,117.0,1963.0,1,1,0,40272.0,1.0,1.0,59090,NonResidential,Distribution Center
+763364.0,5.0,1963.0,1,0,0,106001.0,1.0,1.0,106000,NonResidential,Warehouse
+18309150.0,237.0,1962.0,1,1,0,125779.0,1.0,3.0,120200,NonResidential,Large Office
+775729.0,5.0,1960.0,1,1,0,118733.0,1.0,1.0,119661,NonResidential,Distribution Center
+4342597.0,30.0,2001.0,1,0,0,82098.0,1.0,7.0,94472,NonResidential,Large Office
+3063504.0,21.0,1984.0,1,0,0,95721.0,1.0,6.0,61800,NonResidential,Small- and Mid-Sized Office
+5661690.0,39.0,1996.0,1,0,0,105563.0,2.0,5.0,98055,NonResidential,Large Office
+11319836.0,375.0,2001.0,1,1,0,63199.0,1.0,3.0,56041,NonResidential,Large Office
+5134608.0,36.0,1974.0,1,0,0,71751.0,1.0,5.0,74880,NonResidential,Small- and Mid-Sized Office
+6029122.0,42.0,1979.0,1,0,0,85339.0,1.0,6.0,88774,NonResidential,Small- and Mid-Sized Office
+5535626.0,39.0,1983.0,1,0,0,91281.0,1.0,5.0,122250,NonResidential,Large Office
+4742869.0,33.0,1979.0,1,0,0,53730.0,1.0,4.0,53730,NonResidential,Small- and Mid-Sized Office
+4224872.0,93.0,1960.0,1,1,0,55593.0,1.0,3.0,55593,NonResidential,Small- and Mid-Sized Office
+22394416.0,454.0,2005.0,1,1,0,158415.0,1.0,1.0,158415,NonResidential,Retail Store
+48406556.0,349.0,1929.0,1,1,0,155985.0,1.0,8.0,287819,NonResidential,Large Office
+61762380.0,1269.0,1975.0,1,1,1,158738.0,1.0,8.0,158738,NonResidential,Other
+2991675.0,21.0,1985.0,1,0,0,58195.0,1.0,4.0,58195,NonResidential,Small- and Mid-Sized Office
+18390344.0,326.0,1999.0,1,1,0,102653.0,1.0,1.0,164437,NonResidential,Retail Store
+5671256.0,40.0,2009.0,1,1,0,118016.0,1.0,5.0,118248,NonResidential,Large Office
+11594121.0,270.0,1928.0,1,1,0,54880.0,1.0,3.0,55200,NonResidential,Laboratory
+33713876.0,850.0,2003.0,1,1,0,176171.0,1.0,4.0,129366,NonResidential,Laboratory
+3238216.0,23.0,2004.0,1,0,0,79384.0,1.0,6.0,86700,NonResidential,Large Office
+7851334.0,62.0,2009.0,1,1,0,168132.0,1.0,5.0,172371,NonResidential,Large Office
+2767491.0,30.0,1914.0,1,1,0,127800.0,1.0,5.0,127800,NonResidential,Warehouse
+30083496.0,632.0,2002.0,1,1,0,372503.0,1.0,5.0,353919,NonResidential,Large Office
+11963428.0,95.0,2001.0,1,1,0,131592.0,1.0,6.0,131592,NonResidential,Large Office
+131373880.0,3995.0,1997.0,1,1,0,535947.0,1.0,5.0,535947,Campus,Other
+31371618.0,727.0,2003.0,1,1,0,72407.0,1.0,5.0,109046,NonResidential,Mixed Use Property
+6917478.0,123.0,2006.0,1,1,0,113803.0,1.0,4.0,136143,NonResidential,Large Office
+515492.0,2.0,1988.0,1,1,1,23976.0,1.0,4.0,,Multifamily LR (1-4),Low-Rise Multifamily
+7519466.0,70.0,2006.0,1,1,0,178628.0,1.0,6.0,193198,NonResidential,Large Office
+2755829.0,74.0,1954.0,1,1,0,29732.0,1.0,3.0,67380,NonResidential,Mixed Use Property
+24395228.0,587.0,1963.0,1,1,0,103135.0,1.0,4.0,102235,NonResidential,Laboratory
+45252356.0,1020.0,2008.0,1,1,0,175364.0,1.0,5.0,282813,NonResidential,Mixed Use Property
+3415561.0,24.0,1974.0,1,0,0,64752.0,1.0,5.0,67236,NonResidential,Small- and Mid-Sized Office
+3632614.0,25.0,1972.0,1,0,0,66648.0,1.0,5.0,66762,NonResidential,Small- and Mid-Sized Office
+3493094.0,24.0,1970.0,1,0,0,66747.0,1.0,5.0,66762,NonResidential,Small- and Mid-Sized Office
+3484916.0,24.0,1971.0,1,0,0,69691.0,1.0,5.0,66400,NonResidential,Small- and Mid-Sized Office
+19165116.0,478.0,1988.0,1,1,0,108344.0,1.0,4.0,108344,NonResidential,Medical Office
+8422861.0,78.0,1994.0,1,1,0,95995.0,1.0,4.0,95995,NonResidential,Medical Office
+5697472.0,164.0,1946.0,1,1,0,,2.0,2.0,111445,NonResidential,Self-Storage Facility
+1090497.0,22.0,1997.0,1,1,0,98475.0,1.0,4.0,98475,NonResidential,Warehouse
+42709624.0,1033.0,2000.0,1,1,0,215602.0,1.0,7.0,201075,NonResidential,Hospital
+14512786.0,278.0,1995.0,1,1,0,121087.0,1.0,2.0,121087,NonResidential,Supermarket / Grocery Store
+6522552.0,45.0,2008.0,1,0,0,63225.0,1.0,1.0,63225,NonResidential,Supermarket / Grocery Store
+3574542.0,122.0,1955.0,1,1,0,91532.0,0.0,1.0,113780,Nonresidential COS,Other
+1396082.0,42.0,1999.0,1,1,0,325424.0,1.0,1.0,243044,NonResidential,Warehouse
+11521702.0,80.0,2001.0,1,0,0,156312.0,1.0,3.0,123940,NonResidential,Other
+6876440.0,48.0,1952.0,1,0,0,72000.0,1.0,3.0,53464,NonResidential,Other
+8773058.0,110.0,1997.0,1,1,0,107931.0,1.0,1.0,131387,NonResidential,Retail Store
+784364.0,10.0,1999.0,1,1,0,67155.0,1.0,3.0,94400,NonResidential,Warehouse
+9814820.0,226.0,1964.0,1,1,0,124231.0,6.0,1.0,111900,NonResidential,Other
+13424079.0,237.0,1984.0,1,1,0,144776.0,0.0,1.0,144776,NonResidential,Supermarket / Grocery Store
+17225444.0,553.0,1967.0,1,1,0,57805.0,1.0,1.0,114000,NonResidential,Retail Store
+8663691.0,159.0,1997.0,1,1,0,50065.0,1.0,1.0,50083,NonResidential,Supermarket / Grocery Store
+4991360.0,35.0,1988.0,1,1,0,96504.0,1.0,3.0,95426,NonResidential,Large Office
+3897738.0,27.0,2000.0,1,0,0,90000.0,1.0,4.0,53472,NonResidential,Small- and Mid-Sized Office
+5413418.0,38.0,2001.0,1,0,0,62232.0,1.0,3.0,62332,NonResidential,Small- and Mid-Sized Office
+11325513.0,94.0,1999.0,1,1,0,152579.0,1.0,3.0,166128,NonResidential,Large Office
+8651835.0,85.0,1999.0,1,1,0,138995.0,1.0,4.0,140302,NonResidential,Large Office
+52960796.0,1623.0,1991.0,1,1,1,119815.0,1.0,6.0,154660,NonResidential,Mixed Use Property
+7683885.0,54.0,1982.0,1,0,0,243018.0,1.0,5.0,268920,NonResidential,Large Office
+926847.0,4.0,1988.0,1,1,1,47873.0,2.0,4.0,,Multifamily LR (1-4),Low-Rise Multifamily
+1429146.0,17.0,1967.0,1,1,0,70000.0,1.0,2.0,90000,NonResidential,Warehouse
+1047461.0,32.0,1966.0,1,1,0,50200.0,1.0,1.0,50200,NonResidential,Retail Store
+4758198.0,120.0,1925.0,1,1,0,53993.0,1.0,6.0,87833,NonResidential,Small- and Mid-Sized Office
+227567.0,8.0,1941.0,1,1,0,63240.0,1.0,2.0,63240,NonResidential,Warehouse
+17085344.0,413.0,2008.0,1,1,0,182454.0,1.0,5.0,140415,NonResidential,Other
+465533.0,3.0,1988.0,1,0,0,130293.0,1.0,4.0,106893,NonResidential,Self-Storage Facility
+1123943.0,26.0,1997.0,1,1,0,106041.0,1.0,4.0,106041,NonResidential,Warehouse
+1000797.0,33.0,1956.0,1,1,0,94470.0,1.0,3.0,94470,NonResidential,Self-Storage Facility
+7637986.0,53.0,2002.0,1,0,0,150840.0,1.0,10.0,143508,NonResidential,Large Office
+402051.0,3.0,1966.0,1,0,0,22780.0,1.0,1.0,22780,NonResidential,Warehouse
+5464762.0,237.0,1967.0,1,1,0,124423.0,1.0,1.0,124472,NonResidential,Distribution Center
+8493420.0,59.0,1970.0,1,0,0,227556.0,1.0,22.0,129000,NonResidential,Large Office
+1529510.0,43.0,1967.0,1,1,0,49918.0,1.0,1.0,50065,NonResidential,Distribution Center
+2582687.0,77.0,1969.0,1,1,0,57540.0,1.0,1.0,57540,NonResidential,Distribution Center
+1536998.0,11.0,1966.0,1,0,0,85400.0,1.0,1.0,85400,NonResidential,Warehouse
+519806.0,4.0,1966.0,1,0,0,55700.0,1.0,1.0,55700,NonResidential,Warehouse
+1794187.0,47.0,1964.0,1,1,0,52759.0,1.0,1.0,53250,NonResidential,Small- and Mid-Sized Office
+2179720.0,29.0,1987.0,1,1,0,78672.0,1.0,6.0,50245,NonResidential,Small- and Mid-Sized Office
+325513.0,6.0,1986.0,1,1,0,64660.0,1.0,3.0,64660,NonResidential,Warehouse
+3684188.0,38.0,1927.0,1,1,0,28442.0,1.0,2.0,55916,NonResidential,Mixed Use Property
+9357230.0,205.0,1968.0,1,1,0,162425.0,1.0,1.0,161678,NonResidential,Distribution Center
+21795830.0,153.0,1949.0,1,1,0,101101.0,1.0,1.0,101101,NonResidential,Distribution Center
+1061458.0,32.0,1980.0,1,1,0,59504.0,1.0,1.0,52613,NonResidential,Distribution Center
+5094197.0,74.0,1940.0,1,1,0,45340.0,1.0,1.0,56608,NonResidential,Other
+17695420.0,142.0,1953.0,1,1,0,100000.0,1.0,1.0,104099,NonResidential,Refrigerated Warehouse
+14715262.0,414.0,2003.0,1,1,0,51722.0,1.0,1.0,50734,NonResidential,Supermarket / Grocery Store
+11054535.0,273.0,1980.0,1,1,0,44431.0,1.0,1.0,58480,NonResidential,Supermarket / Grocery Store
+9058916.0,55.0,2005.0,1,0,0,217977.0,1.0,6.0,211900,NonResidential,Large Office
+9937707.0,191.0,1996.0,1,1,0,98863.0,1.0,4.0,104014,NonResidential,Retail Store
+5444254.0,39.0,1914.0,1,1,0,60676.0,1.0,2.0,62220,NonResidential,Small- and Mid-Sized Office
+3181046.0,90.0,1970.0,1,1,0,60732.0,1.0,1.0,65430,NonResidential,Small- and Mid-Sized Office
+6062770.0,49.0,2006.0,1,1,0,83715.0,1.0,3.0,59850,NonResidential,Large Office
+12232124.0,85.0,1926.0,1,0,0,74864.0,1.0,3.0,80004,NonResidential,Other
+8024064.0,262.0,1991.0,1,1,0,263528.0,1.0,2.0,323916,NonResidential,Warehouse
+21027396.0,247.0,1932.0,1,1,0,218918.0,1.0,14.0,304052,NonResidential,Mixed Use Property
+4855036.0,34.0,1978.0,1,0,0,50235.0,1.0,4.0,54175,NonResidential,Small- and Mid-Sized Office
+1988334.0,42.0,1989.0,1,1,0,63896.0,1.0,2.0,98024,NonResidential,Distribution Center
+2603931.0,64.0,1928.0,1,1,0,20000.0,1.0,1.0,50000,NonResidential,Mixed Use Property
+5135040.0,36.0,1990.0,1,0,0,78521.0,1.0,5.0,77953,NonResidential,Large Office
+7290824.0,129.0,1950.0,1,1,0,302812.0,1.0,2.0,302812,NonResidential,Retail Store
+9080022.0,294.0,1974.0,1,1,0,78200.0,1.0,5.0,86400,NonResidential,Small- and Mid-Sized Office
+5450442.0,46.0,1969.0,1,1,0,98539.0,0.0,2.0,98539,NonResidential,Other
+6361236.0,44.0,1981.0,1,0,0,86483.0,1.0,6.0,86483,NonResidential,Small- and Mid-Sized Office
+1124543.0,22.0,1976.0,1,1,0,34400.0,1.0,1.0,51600,NonResidential,Distribution Center
+2225512.0,58.0,1968.0,1,1,0,140520.0,1.0,1.0,140520,NonResidential,Warehouse
+4636396.0,59.0,1986.0,1,1,0,91645.0,1.0,5.0,91649,NonResidential,Large Office
+6963616.0,49.0,2005.0,1,1,0,91935.0,1.0,3.0,69854,NonResidential,Other
+4765754.0,33.0,2005.0,1,0,0,60670.0,1.0,3.0,63909,NonResidential,Medical Office
+971156.0,34.0,1948.0,1,1,0,46846.0,1.0,2.0,53472,NonResidential,Warehouse
+5049446.0,47.0,1930.0,1,1,0,60384.0,1.0,3.0,60592,NonResidential,Small- and Mid-Sized Office
+1847401.0,59.0,1980.0,1,1,0,50417.0,1.0,1.0,50417,NonResidential,Warehouse
+11508035.0,611.0,1900.0,0,1,0,43728.0,1.0,1.0,43728,NonResidential,Restaurant
+15640994.0,295.0,1961.0,1,1,0,133298.0,1.0,3.0,133298,NonResidential,Medical Office
+6455828.0,91.0,1965.0,1,1,0,173106.0,1.0,2.0,168619,NonResidential,Retail Store
+47102428.0,1156.0,2002.0,1,1,0,113318.0,0.0,5.0,138509,NonResidential,Mixed Use Property
+6486378.0,45.0,2000.0,1,0,0,103970.0,1.0,4.0,104500,NonResidential,Large Office
+1028377.0,24.0,1969.0,1,1,0,104786.0,1.0,2.0,104786,NonResidential,Warehouse
+1770028.0,50.0,2000.0,1,1,0,51427.0,1.0,1.0,11440,NonResidential,Other
+2339814.0,108.0,1973.0,1,1,0,110689.0,0.0,1.0,110689,NonResidential,Other
+2058955.0,22.0,1948.0,1,1,0,53620.0,1.0,1.0,53620,NonResidential,Small- and Mid-Sized Office
+3202213.0,65.0,1938.0,1,1,0,50008.0,1.0,1.0,50008,NonResidential,Small- and Mid-Sized Office
+6657348.0,50.0,2009.0,1,1,0,194674.0,1.0,4.0,191000,NonResidential,Large Office
+2551022.0,107.0,1957.0,1,1,0,43920.0,1.0,1.0,50832,NonResidential,Warehouse
+2843034.0,20.0,1971.0,1,1,0,76486.0,1.0,1.0,76354,NonResidential,Refrigerated Warehouse
+2831566.0,40.0,1956.0,1,1,0,98480.0,1.0,1.0,98480,NonResidential,Warehouse
+3441643.0,64.0,1904.0,1,1,0,31602.0,1.0,2.0,53002,NonResidential,Mixed Use Property
+22530168.0,641.0,2008.0,1,1,0,66737.0,1.0,3.0,124700,NonResidential,Mixed Use Property
+19155416.0,406.0,1920.0,1,1,0,106003.0,1.0,3.0,106003,NonResidential,Other
+13898181.0,366.0,1971.0,1,1,0,107594.0,1.0,11.0,124721,NonResidential,Large Office
+5662234.0,39.0,1970.0,1,0,0,93905.0,1.0,7.0,94002,NonResidential,Small- and Mid-Sized Office
+1252324.0,9.0,1974.0,1,0,0,93020.0,1.0,1.0,93020,NonResidential,Warehouse
+711118.0,26.0,1946.0,1,1,0,20310.0,1.0,1.0,23000,NonResidential,Other
+13133225.0,306.0,2002.0,1,1,0,54434.0,1.0,1.0,61053,NonResidential,Supermarket / Grocery Store
+2830675.0,20.0,1904.0,1,0,0,78564.0,1.0,5.0,78920,NonResidential,Small- and Mid-Sized Office
+6606832.0,135.0,1906.0,1,1,0,65088.0,1.0,7.0,99440,NonResidential,Small- and Mid-Sized Office
+2853190.0,20.0,1907.0,1,0,0,63871.0,1.0,6.0,73260,NonResidential,Small- and Mid-Sized Office
+2178074.0,77.0,1900.0,1,1,1,34647.0,1.0,4.0,69817,NonResidential,Small- and Mid-Sized Office
+2094725.0,26.0,1900.0,1,1,0,41609.0,1.0,4.0,84750,NonResidential,Small- and Mid-Sized Office
+3570162.0,25.0,1900.0,1,0,0,45799.0,1.0,6.0,62176,NonResidential,Small- and Mid-Sized Office
+7655751.0,130.0,1900.0,1,1,1,123607.0,1.0,4.0,164380,NonResidential,Large Office
+4336188.0,100.0,1907.0,1,1,1,160580.0,1.0,7.0,160580,NonResidential,Large Office
+1904480.0,13.0,1906.0,1,0,0,33647.0,1.0,3.0,67755,Nonresidential COS,Other
+2371575.0,32.0,1910.0,1,1,0,26250.0,1.0,3.0,56700,NonResidential,Mixed Use Property
+1181062.0,5.0,1968.0,1,1,1,40779.0,1.0,3.0,,Multifamily LR (1-4),Low-Rise Multifamily
+2153604.0,66.0,1922.0,1,1,0,58472.0,1.0,1.0,82852,NonResidential,Warehouse
+3978277.0,133.0,1953.0,1,1,0,50500.0,1.0,2.0,76442,NonResidential,Other
+3155496.0,74.0,1962.0,1,1,0,85343.0,1.0,2.0,92792,NonResidential,Distribution Center
+2244317.0,16.0,1941.0,1,0,0,142901.0,2.0,2.0,125519,NonResidential,Other
+4374646.0,30.0,1900.0,1,0,0,104869.0,1.0,4.0,103200,NonResidential,Large Office
+861973.0,16.0,1954.0,1,1,0,78814.0,1.0,1.0,78814,NonResidential,Warehouse
+1776412.0,41.0,1904.0,1,1,0,39870.0,1.0,4.0,58970,NonResidential,Small- and Mid-Sized Office
+2688676.0,19.0,1910.0,1,0,0,51040.0,1.0,6.0,64800,NonResidential,Distribution Center
+1056782.0,7.0,1907.0,1,0,0,39884.0,1.0,4.0,56270,NonResidential,Distribution Center
+5608600.0,138.0,1904.0,1,1,0,43122.0,1.0,4.0,66842,NonResidential,Small- and Mid-Sized Office
+2891605.0,20.0,1909.0,1,1,0,65508.0,1.0,6.0,64488,NonResidential,Small- and Mid-Sized Office
+9722890.0,68.0,1904.0,1,0,0,183916.0,1.0,7.0,184322,NonResidential,Large Office
+25567108.0,182.0,2009.0,1,1,0,273812.0,1.0,7.0,287853,NonResidential,Large Office
+5968154.0,181.0,1914.0,1,1,0,63000.0,1.0,2.0,64512,NonResidential,Small- and Mid-Sized Office
+63835192.0,446.0,2009.0,1,1,0,111774.0,1.0,6.0,174226,NonResidential,Mixed Use Property
+3929371.0,98.0,1926.0,1,1,0,144050.0,1.0,7.0,144050,NonResidential,Warehouse
+74130576.0,811.0,1912.0,1,1,0,1000730.0,0.0,6.0,1380959,NonResidential,Large Office
+7221482.0,100.0,1993.0,1,1,0,107704.0,1.0,1.0,107930,NonResidential,Retail Store
+1618110.0,49.0,1926.0,1,1,0,99084.0,1.0,1.0,99084,NonResidential,Warehouse
+2581742.0,43.0,1953.0,1,1,0,72719.0,1.0,1.0,72719,NonResidential,Distribution Center
+2773648.0,33.0,1930.0,1,1,0,76624.0,0.0,4.0,76624,NonResidential,Small- and Mid-Sized Office
+8570571.0,60.0,2001.0,1,0,0,53281.0,1.0,6.0,55123,NonResidential,Small- and Mid-Sized Office
+19248732.0,478.0,2008.0,1,1,0,89131.0,1.0,5.0,89191,NonResidential,Medical Office
+8381834.0,58.0,1991.0,1,0,0,119083.0,1.0,5.0,121885,NonResidential,Large Office
+2409429.0,67.0,1973.0,1,1,0,56576.0,1.0,1.0,56572,NonResidential,Retail Store
+3187951.0,25.0,2002.0,1,1,0,117950.0,1.0,6.0,106740,Multifamily MR (5-9),Mid-Rise Multifamily
+20560622.0,692.0,2004.0,1,0,1,200184.0,1.0,0.0,225982,NonResidential,Medical Office
+39403320.0,735.0,2006.0,1,1,0,385196.0,0.0,0.0,516407,NonResidential,Mixed Use Property
+25747022.0,185.0,2000.0,1,1,0,303312.0,1.0,11.0,312512,NonResidential,Large Office
+56498868.0,481.0,2005.0,1,1,1,914832.0,1.0,42.0,1592914,NonResidential,Large Office
+2478025.0,17.0,1926.0,1,0,0,51881.0,1.0,6.0,97720,NonResidential,Small- and Mid-Sized Office
+17254810.0,190.0,1985.0,1,0,1,197408.0,1.0,10.0,215923,NonResidential,Medical Office
+5792926.0,40.0,1987.0,1,0,0,113739.0,1.0,7.0,94500,NonResidential,Medical Office
+5417598.0,95.0,2005.0,1,1,0,109758.0,0.0,1.0,94713,NonResidential,Retail Store
+14751117.0,130.0,2008.0,1,1,0,201365.0,1.0,9.0,201560,NonResidential,Medical Office
+15067340.0,357.0,1973.0,1,0,1,170727.0,1.0,19.0,163504,NonResidential,Medical Office
+8138616.0,282.0,1900.0,1,1,1,114919.0,1.0,6.0,205521,NonResidential,Large Office
+3065954.0,21.0,1900.0,1,0,0,46000.0,1.0,6.0,56700,NonResidential,Small- and Mid-Sized Office
+2729168.0,23.0,1925.0,1,1,0,72000.0,1.0,4.0,72000,NonResidential,Small- and Mid-Sized Office
+5101504.0,36.0,2000.0,1,0,0,103000.0,1.0,4.0,96254,NonResidential,Large Office
+9029489.0,310.0,2001.0,1,1,0,50000.0,1.0,3.0,57236,NonResidential,Other
+20725996.0,531.0,1994.0,1,1,0,107427.0,3.0,1.0,102133,NonResidential,Other
+8393893.0,59.0,1989.0,1,0,0,198911.0,1.0,26.0,276497,Multifamily HR (10+),High-Rise Multifamily
+15725581.0,117.0,2008.0,1,1,0,232443.0,1.0,14.0,362046,NonResidential,Large Office
+5974994.0,14.0,2002.0,1,0,0,80298.0,1.0,5.0,195993,Multifamily MR (5-9),Mid-Rise Multifamily
+13085297.0,270.0,1994.0,1,1,0,81385.0,3.0,2.0,81336,NonResidential,Other
+16020642.0,112.0,2001.0,1,0,0,366554.0,1.0,23.0,538933,NonResidential,Large Office
+6136328.0,138.0,1929.0,1,1,0,79470.0,1.0,13.0,99470,Multifamily HR (10+),High-Rise Multifamily
+5233554.0,36.0,1983.0,1,0,0,197040.0,1.0,6.0,78852,NonResidential,Other
+4391348.0,31.0,1982.0,1,0,0,98668.0,1.0,5.0,98668,NonResidential,Small- and Mid-Sized Office
+8751704.0,99.0,2007.0,1,1,0,80157.0,1.0,1.0,130550,NonResidential,Large Office
+22078064.0,358.0,1978.0,1,1,0,105100.0,1.0,1.0,105100,NonResidential,Large Office
+12525174.0,0.0,2008.0,0,0,0,39500.0,1.0,1.0,57176,NonResidential,Supermarket / Grocery Store
+2661488.0,61.0,1978.0,1,1,0,50660.0,1.0,1.0,50660,NonResidential,Retail Store
+2203026.0,56.0,1937.0,1,1,0,39879.0,1.0,2.0,61929,NonResidential,Small- and Mid-Sized Office
+25478086.0,178.0,2000.0,1,0,0,104667.0,1.0,4.0,110111,NonResidential,Large Office
+802312.0,6.0,1925.0,1,0,0,20565.0,1.0,3.0,20565,NonResidential,Small- and Mid-Sized Office
+7857972.0,55.0,2000.0,1,0,0,106449.0,1.0,5.0,103966,NonResidential,Large Office
+14856199.0,104.0,2008.0,1,0,0,133451.0,1.0,5.0,137201,NonResidential,Large Office
+5514308.0,117.0,1986.0,1,1,0,109978.0,1.0,5.0,129362,NonResidential,Large Office
+12729858.0,89.0,1986.0,1,0,0,178625.0,1.0,7.0,197203,NonResidential,Large Office
+10053489.0,70.0,1993.0,1,0,0,171783.0,1.0,3.0,187130,NonResidential,Large Office
+17186624.0,120.0,2000.0,1,0,0,126218.0,1.0,5.0,133177,NonResidential,Large Office
+1262235.0,9.0,1912.0,1,0,0,95330.0,1.0,5.0,154330,NonResidential,Warehouse
+4515180.0,50.0,1918.0,1,0,1,64055.0,1.0,6.0,93555,NonResidential,Large Office
+6797647.0,47.0,1905.0,1,0,0,110370.0,1.0,6.0,167860,NonResidential,Large Office
+4946798.0,98.0,1910.0,1,1,0,80400.0,1.0,6.0,112560,NonResidential,Large Office
+3241917.0,69.0,1910.0,1,1,0,67670.0,1.0,6.0,86204,NonResidential,Retail Store
+8384523.0,119.0,1985.0,1,1,0,101633.0,1.0,2.0,145158,Nonresidential COS,Warehouse
+10287986.0,157.0,1951.0,1,1,0,110746.0,1.0,2.0,112896,NonResidential,Large Office
+1015060.0,7.0,1960.0,1,0,0,99551.0,1.0,1.0,110613,NonResidential,Distribution Center
+2417401.0,96.0,1951.0,1,1,0,119593.0,1.0,4.0,149881,NonResidential,Warehouse
+6468090.0,75.0,1951.0,1,1,0,129420.0,1.0,3.0,98220,NonResidential,Warehouse
+2848317.0,20.0,1970.0,1,0,0,44300.0,1.0,1.0,84420,NonResidential,Distribution Center
+5197118.0,156.0,1961.0,1,1,0,73335.0,1.0,1.0,73335,NonResidential,Distribution Center
+1791716.0,48.0,1928.0,1,1,0,48400.0,1.0,2.0,56876,NonResidential,Distribution Center
+4912143.0,179.0,1931.0,1,1,0,61200.0,1.0,2.0,61200,NonResidential,Warehouse
+1555420.0,34.0,1987.0,1,1,0,109090.0,1.0,1.0,111908,NonResidential,Distribution Center
+6858534.0,168.0,1986.0,1,1,0,65700.0,3.0,2.0,63644,NonResidential,Other
+3639670.0,25.0,1930.0,1,0,0,58605.0,3.0,2.0,89893,NonResidential,Mixed Use Property
+16865978.0,294.0,1970.0,1,1,0,168735.0,1.0,1.0,106345,NonResidential,Supermarket / Grocery Store
+4817062.0,34.0,2001.0,1,0,0,70074.0,1.0,4.0,71037,NonResidential,Small- and Mid-Sized Office
+2346572.0,87.0,1974.0,1,1,0,31582.0,0.0,3.0,56259,NonResidential,Warehouse
+25631512.0,711.0,2006.0,1,1,0,119570.0,1.0,6.0,143439,NonResidential,Other
+8873485.0,62.0,2008.0,1,0,0,105206.0,1.0,4.0,113768,NonResidential,Large Office
+5481549.0,38.0,2000.0,1,0,0,77174.0,1.0,2.0,51374,NonResidential,Small- and Mid-Sized Office
+6859198.0,48.0,1998.0,1,0,0,98781.0,1.0,5.0,110524,NonResidential,Large Office
+21042926.0,314.0,2008.0,1,1,0,97500.0,1.0,5.0,183574,NonResidential,Mixed Use Property
+36436388.0,1155.0,1999.0,1,1,0,97365.0,1.0,4.0,97366,NonResidential,Laboratory
+8655604.0,68.0,2000.0,1,1,0,163082.0,1.0,7.0,157186,NonResidential,Large Office
+4750799.0,65.0,1974.0,1,1,0,89075.0,1.0,5.0,84210,NonResidential,Large Office
+12029600.0,260.0,1902.0,1,1,0,90345.0,1.0,3.0,76893,NonResidential,Small- and Mid-Sized Office
+9343428.0,120.0,1975.0,1,1,0,126648.0,1.0,8.0,126370,NonResidential,Large Office
+16540550.0,148.0,1953.0,1,1,0,274362.0,1.0,7.0,274362,NonResidential,Large Office
+17750994.0,247.0,1983.0,1,1,0,270237.0,1.0,15.0,261722,NonResidential,Large Office
+11480494.0,347.0,1963.0,1,1,1,156414.0,1.0,11.0,169020,NonResidential,Large Office
+274682208.0,1922.0,1981.0,1,1,0,218997.0,1.0,33.0,429405,NonResidential,Other
+92937640.0,883.0,1985.0,1,1,0,1680937.0,1.0,76.0,1632820,NonResidential,Large Office
+15878689.0,111.0,1981.0,1,0,0,312442.0,1.0,19.0,293737,NonResidential,Large Office
+22104512.0,582.0,1925.0,1,1,1,281598.0,1.0,18.0,335064,NonResidential,Medical Office
+8303666.0,110.0,1929.0,1,1,0,78920.0,1.0,4.0,78920,NonResidential,Retail Store
+5177270.0,109.0,1979.0,1,1,0,120248.0,1.0,7.0,43983,NonResidential,Large Office
+46510960.0,324.0,1999.0,1,0,0,561684.0,1.0,0.0,947987,NonResidential,Other
+3686962.0,151.0,1908.0,1,1,0,17120.0,1.0,4.0,55520,NonResidential,Mixed Use Property
+3775188.0,134.0,1908.0,1,0,1,138257.0,1.0,10.0,132998,NonResidential,Large Office
+2443142.0,28.0,1940.0,1,1,0,45000.0,1.0,3.0,83118,NonResidential,Retail Store
+7802206.0,54.0,1924.0,1,1,0,73563.0,1.0,3.0,77555,NonResidential,Retail Store
+2886142.0,20.0,1909.0,1,0,0,44913.0,1.0,6.0,51218,NonResidential,Small- and Mid-Sized Office
+36378588.0,426.0,1970.0,1,1,0,371450.0,1.0,29.0,489182,NonResidential,Large Office
+16246106.0,640.0,1929.0,1,1,1,182604.0,1.0,27.0,203251,NonResidential,Large Office
+19036416.0,133.0,1921.0,1,0,0,151740.0,1.0,13.0,189175,NonResidential,Large Office
+17074142.0,119.0,1998.0,1,0,0,145491.0,1.0,13.0,219322,NonResidential,Large Office
+4585070.0,42.0,1910.0,1,1,0,95942.0,1.0,7.0,122356,NonResidential,Large Office
+1968655.0,14.0,1921.0,1,0,0,50250.0,1.0,3.0,52298,NonResidential,Small- and Mid-Sized Office
+1358519.0,9.0,1977.0,1,0,0,22719.0,1.0,3.0,22719,NonResidential,Restaurant
+6758566.0,169.0,1911.0,1,0,1,82053.0,1.0,17.0,116640,NonResidential,Large Office
+37980712.0,265.0,1981.0,1,0,0,983697.0,1.0,42.0,1047934,NonResidential,Large Office
+8523594.0,89.0,1988.0,1,1,0,81873.0,1.0,5.0,89025,NonResidential,Medical Office
+690530.0,9.0,1916.0,1,1,0,60122.0,1.0,2.0,60122,NonResidential,University
+4052720.0,31.0,1910.0,1,1,0,84481.0,1.0,6.0,81300,NonResidential,Small- and Mid-Sized Office
+15272491.0,391.0,1971.0,1,0,1,204993.0,1.0,9.0,224857,NonResidential,Large Office
+13568148.0,95.0,1998.0,1,0,0,343400.0,1.0,8.0,321473,NonResidential,Large Office
+1594422.0,52.0,1939.0,1,1,0,58500.0,1.0,2.0,58492,NonResidential,Other
+4353025.0,30.0,1907.0,1,0,0,49473.0,1.0,6.0,62370,NonResidential,Small- and Mid-Sized Office
+2356377.0,74.0,1960.0,1,1,0,77800.0,1.0,1.0,73296,NonResidential,Warehouse
+14469228.0,179.0,1944.0,1,1,0,50036.0,1.0,4.0,99122,Nonresidential COS,Other
+6345010.0,90.0,1985.0,1,1,0,60787.0,1.0,1.0,66133,NonResidential,Other
+3534691.0,111.0,1952.0,1,1,0,101752.0,1.0,2.0,115668,NonResidential,Warehouse
+6673138.0,47.0,1970.0,1,0,0,152511.0,1.0,1.0,141686,NonResidential,Other
+6235947.0,152.0,1950.0,1,1,0,101278.0,1.0,1.0,93610,NonResidential,Small- and Mid-Sized Office
+6843855.0,61.0,1973.0,1,1,0,141917.0,1.0,2.0,156188,NonResidential,Large Office
+1282115.0,5.0,1977.0,1,1,1,40758.0,1.0,6.0,,Multifamily MR (5-9),Mid-Rise Multifamily
+1951856.0,14.0,1966.0,1,0,0,56900.0,1.0,1.0,115620,NonResidential,Warehouse
+10775646.0,75.0,1975.0,1,0,0,245240.0,1.0,5.0,238148,NonResidential,Large Office
+151754.0,1.0,1969.0,1,0,0,71718.0,1.0,1.0,71718,NonResidential,Distribution Center
+4345698.0,132.0,1969.0,1,1,0,34206.0,1.0,1.0,55450,NonResidential,Warehouse
+2763597.0,90.0,1979.0,1,1,0,55000.0,1.0,1.0,54880,NonResidential,Distribution Center
+7305474.0,159.0,1992.0,1,1,0,99471.0,1.0,1.0,102500,NonResidential,Retail Store
+8915523.0,120.0,2002.0,1,1,0,232685.0,1.0,6.0,88498,NonResidential,Other
+7439009.0,195.0,1963.0,1,1,0,27382.0,1.0,1.0,50785,NonResidential,Supermarket / Grocery Store
+37951708.0,166.0,1929.0,1,1,0,81526.0,1.0,3.0,85126,NonResidential,Small- and Mid-Sized Office
+11077140.0,99.0,2000.0,1,1,0,321828.0,1.0,5.0,283435,NonResidential,Other
+15091579.0,455.0,1986.0,1,1,0,288048.0,1.0,1.0,411584,NonResidential,Distribution Center
+1141190.0,29.0,1902.0,1,1,0,27283.0,1.0,4.0,73320,NonResidential,Mixed Use Property
+9683979.0,68.0,2008.0,1,0,0,149081.0,1.0,4.0,142510,NonResidential,Large Office
+5392618.0,74.0,1900.0,1,1,0,95760.0,1.0,6.0,79920,NonResidential,Small- and Mid-Sized Office
+3459543.0,24.0,1946.0,1,0,0,178087.0,1.0,1.0,179413,NonResidential,Warehouse
+605971.0,4.0,1917.0,1,0,0,60000.0,0.0,1.0,65288,NonResidential,Warehouse
+602245.0,4.0,1966.0,1,0,0,164806.0,1.0,1.0,170632,NonResidential,Warehouse
+11410228.0,106.0,1994.0,1,1,0,220033.0,1.0,10.0,381511,NonResidential,Large Office
+13631141.0,95.0,2009.0,1,0,0,295494.0,1.0,17.0,275166,NonResidential,Large Office
+4865552.0,79.0,2009.0,1,1,0,41624.0,1.0,6.0,68100,NonResidential,Mixed Use Property
+5453438.0,110.0,1956.0,1,1,0,85572.0,1.0,2.0,93803,NonResidential,Retail Store
+3004271.0,21.0,1966.0,1,0,0,112484.0,1.0,2.0,123000,NonResidential,Warehouse
+9941308.0,69.0,2003.0,1,0,0,177748.0,1.0,5.0,162150,NonResidential,Medical Office
+1052245.0,27.0,1978.0,1,1,0,52702.0,1.0,1.0,60448,NonResidential,Warehouse
+291614432.0,12307.0,1994.0,1,1,1,1639334.0,7.0,14.0,1765970,NonResidential,Hospital
+11147342.0,406.0,1928.0,1,1,0,215197.0,3.0,4.0,62600,NonResidential,Other
+2655388.0,21.0,2004.0,1,1,0,26400.0,1.0,4.0,55800,NonResidential,Mixed Use Property
+12731388.0,134.0,1990.0,1,1,0,146150.0,1.0,5.0,130262,NonResidential,Medical Office
+7771934.0,54.0,1987.0,1,0,0,87552.0,1.0,5.0,90266,NonResidential,Other
+1165599.0,14.0,2004.0,1,1,0,87332.0,1.0,4.0,80874,NonResidential,Warehouse
+13410041.0,454.0,2003.0,1,1,0,100528.0,1.0,6.0,100528,NonResidential,Hotel
+19085174.0,341.0,1999.0,1,1,0,134197.0,1.0,5.0,141718,NonResidential,Other
+1473536.0,6.0,1984.0,1,1,1,42720.0,1.0,4.0,,Multifamily LR (1-4),Low-Rise Multifamily
+9444484.0,279.0,2008.0,1,1,0,92000.0,1.0,5.0,90583,NonResidential,Hotel
+1083730.0,8.0,1988.0,1,0,0,132828.0,1.0,4.0,132828,NonResidential,Warehouse
+13962749.0,284.0,1970.0,1,1,0,58047.0,1.0,1.0,70400,NonResidential,Warehouse
+10713006.0,295.0,1995.0,1,1,0,130767.0,1.0,1.0,101830,NonResidential,Retail Store
+7575080.0,110.0,1974.0,1,1,0,114000.0,2.0,4.0,114000,NonResidential,University
+20675922.0,259.0,2002.0,1,1,0,180633.0,1.0,3.0,338063,SPS-District K-12,Other
+1069750.0,13.0,1965.0,1,1,0,149293.0,1.0,1.0,152365,NonResidential,Warehouse
+25471308.0,190.0,1910.0,1,1,0,236359.0,1.0,6.0,320946,NonResidential,Medical Office
+5402181.0,135.0,1958.0,1,1,0,74178.0,1.0,1.0,74178,NonResidential,Retail Store
+686019.0,16.0,1987.0,1,1,0,80360.0,1.0,4.0,80360,NonResidential,Warehouse
+10077532.0,267.0,1996.0,1,1,0,46280.0,1.0,3.0,119190,NonResidential,Supermarket / Grocery Store
+1938613.0,14.0,2008.0,1,0,0,48103.0,1.0,2.0,51856,NonResidential,Other
+7070998.0,49.0,1921.0,1,0,0,26044.0,1.0,3.0,53552,NonResidential,Mixed Use Property
+17880184.0,129.0,1960.0,1,1,0,65434.0,1.0,3.0,65434,NonResidential,Large Office
+722063.0,5.0,1976.0,1,0,0,31334.0,1.0,4.0,31334,Multifamily LR (1-4),Low-Rise Multifamily
+1167967.0,8.0,2005.0,1,0,0,47658.0,1.0,3.0,47658,Multifamily LR (1-4),Low-Rise Multifamily
+1997182.0,26.0,2000.0,1,1,0,91064.0,1.0,3.0,56986,NonResidential,Low-Rise Multifamily
+695956.0,5.0,1962.0,1,0,0,24059.0,1.0,3.0,24059,Multifamily LR (1-4),Low-Rise Multifamily
+9097980.0,344.0,1963.0,1,1,0,132804.0,1.0,3.0,66402,Multifamily LR (1-4),Senior Care Community
+1742351.0,12.0,1988.0,1,0,0,60487.0,1.0,4.0,76285,Multifamily LR (1-4),Low-Rise Multifamily
+864005.0,6.0,1990.0,1,0,0,29914.0,1.0,3.0,46873,Multifamily LR (1-4),Low-Rise Multifamily
+1552051.0,65.0,1965.0,1,1,0,48618.0,5.0,2.0,62900,Multifamily LR (1-4),Low-Rise Multifamily
+681354.0,5.0,1998.0,1,0,0,20148.0,1.0,3.0,23937,Multifamily LR (1-4),Low-Rise Multifamily
+778356.0,32.0,1957.0,1,1,0,22220.0,1.0,2.0,22220,NonResidential,Worship Facility
+4934559.0,95.0,2000.0,1,1,0,215698.0,1.0,6.0,86992,Multifamily MR (5-9),Mid-Rise Multifamily
+1422814.0,62.0,1959.0,1,1,0,26211.0,1.0,2.0,26211,Multifamily LR (1-4),Low-Rise Multifamily
+2213116.0,60.0,1914.0,1,1,0,14200.0,1.0,2.0,28260,Multifamily LR (1-4),Low-Rise Multifamily
+2042771.0,31.0,1962.0,1,1,0,23751.0,1.0,1.0,44700,NonResidential,Mixed Use Property
+1618916.0,11.0,1976.0,1,0,0,40000.0,1.0,1.0,44100,NonResidential,Warehouse
+1224186.0,24.0,1965.0,1,1,0,27800.0,1.0,1.0,27800,NonResidential,Distribution Center
+6856154.0,277.0,1910.0,1,1,1,112340.0,1.0,11.0,321945,Multifamily HR (10+),High-Rise Multifamily
+2564004.0,18.0,2001.0,1,0,0,46340.0,1.0,1.0,46340,NonResidential,Warehouse
+2222098.0,102.0,1994.0,1,1,0,22800.0,3.0,1.0,22800,Campus,Other
+560334.0,4.0,2005.0,1,0,0,11980.0,1.0,4.0,22852,Multifamily LR (1-4),Mixed Use Property
+1950713.0,36.0,1910.0,1,1,0,38460.0,1.0,3.0,38460,NonResidential,Small- and Mid-Sized Office
+2822377.0,64.0,2003.0,1,1,0,95460.0,1.0,6.0,86955,Multifamily MR (5-9),Mid-Rise Multifamily
+6310254.0,44.0,2003.0,1,1,0,194919.0,1.0,11.0,286408,Multifamily HR (10+),High-Rise Multifamily
+2255460.0,39.0,2002.0,1,1,0,47220.0,1.0,4.0,20214,Multifamily LR (1-4),Mixed Use Property
+777682.0,16.0,1992.0,1,1,0,21888.0,1.0,4.0,21888,Multifamily LR (1-4),Low-Rise Multifamily
+1898210.0,13.0,2002.0,1,0,0,66849.0,1.0,7.0,66849,Multifamily MR (5-9),Mid-Rise Multifamily
+945246.0,44.0,1922.0,1,1,0,21022.0,1.0,2.0,21022,NonResidential,Worship Facility
+679295.0,5.0,1926.0,1,0,0,25200.0,1.0,4.0,30240,Multifamily LR (1-4),Low-Rise Multifamily
+2503690.0,53.0,1991.0,1,1,0,49532.0,1.0,5.0,59440,Multifamily MR (5-9),Mid-Rise Multifamily
+456198.0,3.0,1978.0,1,0,0,20996.0,0.0,4.0,22445,Multifamily LR (1-4),Low-Rise Multifamily
+964499.0,7.0,1989.0,1,0,0,45878.0,1.0,4.0,45878,Multifamily LR (1-4),Low-Rise Multifamily
+1112534.0,26.0,1995.0,1,1,0,37824.0,1.0,5.0,37824,Multifamily MR (5-9),Mid-Rise Multifamily
+1339221.0,5.0,1976.0,1,0,0,38765.0,1.0,4.0,38765,Multifamily LR (1-4),Low-Rise Multifamily
+861008.0,19.0,2002.0,1,1,0,20347.0,1.0,4.0,26815,Multifamily LR (1-4),Low-Rise Multifamily
+668916.0,22.0,2007.0,1,1,0,22529.0,1.0,5.0,22529,Multifamily MR (5-9),Mid-Rise Multifamily
+3936547.0,123.0,1991.0,1,1,0,64445.0,1.0,8.0,148474,Multifamily MR (5-9),Mid-Rise Multifamily
+2143651.0,86.0,1967.0,1,1,0,48001.0,1.0,1.0,48001,NonResidential,Distribution Center
+509124.0,4.0,1979.0,1,1,0,23620.0,1.0,1.0,26380,NonResidential,Warehouse
+2559462.0,77.0,1969.0,1,1,0,29551.0,1.0,1.0,37351,NonResidential,Warehouse
+345867.0,2.0,1981.0,1,0,0,30375.0,1.0,1.0,30375,NonResidential,Warehouse
+369292.0,3.0,1979.0,1,0,0,24280.0,1.0,1.0,30004,NonResidential,Warehouse
+596156.0,4.0,1990.0,1,0,0,21991.0,1.0,3.0,21991,Multifamily LR (1-4),Low-Rise Multifamily
+3366510.0,43.0,2004.0,1,1,0,102342.0,1.0,13.0,120405,Multifamily HR (10+),High-Rise Multifamily
+10960107.0,416.0,1928.0,1,1,0,36185.0,1.0,3.0,39971,NonResidential,Other
+635952.0,4.0,1988.0,1,0,0,23976.0,1.0,4.0,23976,Multifamily LR (1-4),Low-Rise Multifamily
+509836.0,22.0,1914.0,1,1,0,33589.0,1.0,2.0,33589,NonResidential,Worship Facility
+4606968.0,62.0,2004.0,1,1,0,140961.0,1.0,6.0,169149,Multifamily MR (5-9),Mid-Rise Multifamily
+770082.0,16.0,1992.0,1,1,0,25368.0,1.0,5.0,25368,Multifamily MR (5-9),Mid-Rise Multifamily
+3220635.0,23.0,1979.0,1,1,0,43495.0,1.0,3.0,43500,NonResidential,Small- and Mid-Sized Office
+1896299.0,38.0,1978.0,1,1,0,28492.0,1.0,2.0,28492,NonResidential,Small- and Mid-Sized Office
+1401316.0,10.0,1963.0,1,0,0,18000.0,1.0,3.0,22325,NonResidential,Small- and Mid-Sized Office
+3077371.0,130.0,1928.0,1,1,0,33608.0,1.0,14.0,50141,Multifamily HR (10+),High-Rise Multifamily
+7251589.0,51.0,1946.0,1,0,0,69000.0,1.0,2.0,22588,NonResidential,Laboratory
+3986983.0,114.0,1993.0,1,1,0,80670.0,1.0,6.0,140049,Multifamily MR (5-9),Mid-Rise Multifamily
+2569106.0,107.0,1925.0,1,1,0,58954.0,1.0,5.0,58954,Multifamily MR (5-9),Mid-Rise Multifamily
+1128311.0,30.0,1916.0,1,1,0,37992.0,1.0,5.0,37992,Multifamily MR (5-9),Mid-Rise Multifamily
+967433.0,7.0,2003.0,1,0,0,44995.0,1.0,5.0,62876,Multifamily MR (5-9),Mid-Rise Multifamily
+1256576.0,28.0,2006.0,1,1,0,36300.0,1.0,4.0,40562,Multifamily LR (1-4),Low-Rise Multifamily
+1603018.0,66.0,1910.0,1,1,0,40489.0,1.0,5.0,40489,Multifamily MR (5-9),Mid-Rise Multifamily
+874707.0,6.0,1925.0,1,0,0,28500.0,1.0,3.0,34800,Multifamily LR (1-4),Low-Rise Multifamily
+753721.0,19.0,1928.0,1,1,0,24169.0,1.0,3.0,28058,Multifamily LR (1-4),Low-Rise Multifamily
+3229864.0,29.0,1925.0,1,1,0,62380.0,1.0,9.0,86560,Multifamily MR (5-9),Mid-Rise Multifamily
+4206840.0,29.0,1978.0,1,0,0,65706.0,1.0,13.0,79235,Multifamily HR (10+),High-Rise Multifamily
+2807793.0,30.0,2001.0,1,1,0,71127.0,1.0,6.0,142063,Multifamily MR (5-9),Mid-Rise Multifamily
+4192895.0,50.0,1992.0,1,1,0,135433.0,1.0,8.0,135433,Multifamily MR (5-9),Mid-Rise Multifamily
+1713382.0,70.0,1924.0,1,1,0,32545.0,1.0,3.0,33400,Multifamily LR (1-4),Low-Rise Multifamily
+2306724.0,80.0,1994.0,1,1,0,88144.0,1.0,7.0,85042,Multifamily MR (5-9),Mid-Rise Multifamily
+1119640.0,30.0,2000.0,1,1,0,37619.0,1.0,3.0,37619,Multifamily LR (1-4),Low-Rise Multifamily
+6787070.0,170.0,1917.0,1,1,0,147545.0,1.0,2.0,147545,NonResidential,Retail Store
+1114385.0,8.0,1923.0,1,0,0,25778.0,1.0,2.0,21462,Nonresidential COS,Other
+775729.0,17.0,1993.0,1,1,0,34476.0,1.0,3.0,24178,Multifamily LR (1-4),Low-Rise Multifamily
+4086293.0,132.0,1918.0,1,1,0,82283.0,1.0,3.0,107518,Multifamily LR (1-4),Low-Rise Multifamily
+846389.0,17.0,1997.0,1,1,0,30720.0,1.0,6.0,30720,Multifamily MR (5-9),Mid-Rise Multifamily
+818836.0,6.0,1986.0,1,0,0,38970.0,1.0,4.0,38970,Multifamily LR (1-4),Low-Rise Multifamily
+572693.0,4.0,1989.0,1,0,0,24648.0,1.0,5.0,24648,Multifamily MR (5-9),Mid-Rise Multifamily
+635697.0,4.0,1988.0,1,0,0,21136.0,1.0,4.0,34270,Multifamily LR (1-4),Low-Rise Multifamily
+387226.0,3.0,1984.0,1,0,0,20837.0,1.0,4.0,20837,Multifamily LR (1-4),Low-Rise Multifamily
+1362523.0,63.0,1917.0,1,1,0,23835.0,1.0,2.0,28072,NonResidential,Other
+614985.0,4.0,1986.0,1,0,0,24864.0,1.0,4.0,24864,Multifamily LR (1-4),Low-Rise Multifamily
+1007356.0,7.0,1990.0,1,0,0,39050.0,1.0,5.0,39050,Multifamily MR (5-9),Mid-Rise Multifamily
+3116420.0,52.0,1980.0,1,1,0,46300.0,0.0,8.0,77800,Multifamily MR (5-9),Mid-Rise Multifamily
+4970047.0,208.0,1955.0,1,1,0,31020.0,1.0,2.0,31020,NonResidential,Restaurant
+1636649.0,30.0,1917.0,1,1,0,14400.0,1.0,2.0,21600,NonResidential,Small- and Mid-Sized Office
+4322873.0,141.0,1974.0,1,1,0,37993.0,1.0,5.0,48505,NonResidential,Small- and Mid-Sized Office
+14856602.0,375.0,2001.0,1,1,0,409137.0,1.0,16.0,590869,Multifamily HR (10+),High-Rise Multifamily
+2653900.0,18.0,2001.0,1,0,0,103023.0,1.0,7.0,145275,Multifamily MR (5-9),Mid-Rise Multifamily
+1408291.0,10.0,1942.0,1,0,0,64630.0,1.0,3.0,64630,NonResidential,Small- and Mid-Sized Office
+1042108.0,42.0,1948.0,1,1,0,20920.0,1.0,2.0,20920,NonResidential,Worship Facility
+2173356.0,63.0,1903.0,1,1,0,20840.0,1.0,3.0,26640,Multifamily LR (1-4),Low-Rise Multifamily
+3696785.0,138.0,2009.0,1,1,0,36514.0,1.0,7.0,40329,Multifamily MR (5-9),Mid-Rise Multifamily
+922154.0,6.0,1987.0,1,0,0,40987.0,1.0,4.0,34880,Multifamily LR (1-4),Low-Rise Multifamily
+1583110.0,52.0,1902.0,1,1,0,50841.0,1.0,4.0,56776,Multifamily LR (1-4),Low-Rise Multifamily
+3073938.0,55.0,1990.0,1,1,0,77887.0,1.0,6.0,112676,Multifamily MR (5-9),Mid-Rise Multifamily
+608360.0,25.0,1926.0,1,1,0,22128.0,1.0,2.0,22128,NonResidential,Worship Facility
+1195994.0,20.0,1973.0,1,1,0,26880.0,1.0,4.0,26880,Multifamily LR (1-4),Low-Rise Multifamily
+859237.0,24.0,1968.0,1,1,0,40000.0,1.0,1.0,48139,NonResidential,Retail Store
+4555220.0,32.0,1993.0,1,0,0,171306.0,1.0,5.0,214388,Multifamily MR (5-9),Mid-Rise Multifamily
+1022958.0,7.0,1990.0,1,0,0,43228.0,1.0,4.0,43228,Multifamily LR (1-4),Low-Rise Multifamily
+566665.0,4.0,1967.0,1,0,0,22047.0,1.0,5.0,23231,Multifamily MR (5-9),Mid-Rise Multifamily
+965651.0,44.0,1949.0,1,1,0,15364.0,1.0,2.0,21364,NonResidential,Worship Facility
+2709974.0,83.0,1992.0,1,1,0,56635.0,0.0,7.0,65210,Multifamily MR (5-9),Mid-Rise Multifamily
+3273646.0,154.0,1999.0,1,1,0,79872.0,1.0,6.0,208125,Multifamily MR (5-9),Mid-Rise Multifamily
+1082076.0,10.0,1923.0,1,1,0,33720.0,1.0,6.0,39251,Multifamily MR (5-9),Mid-Rise Multifamily
+1809587.0,33.0,1992.0,1,1,0,44715.0,1.0,5.0,44715,Multifamily MR (5-9),Mid-Rise Multifamily
+528412.0,7.0,1990.0,1,1,0,21715.0,1.0,5.0,21715,Multifamily MR (5-9),Mid-Rise Multifamily
+2321336.0,13.0,1994.0,1,0,0,62659.0,1.0,7.0,62659,Multifamily MR (5-9),Mid-Rise Multifamily
+1638563.0,55.0,1916.0,1,1,0,56652.0,1.0,3.0,56652,Multifamily LR (1-4),Low-Rise Multifamily
+647793.0,5.0,1996.0,1,0,0,20798.0,1.0,5.0,20798,Multifamily MR (5-9),Mid-Rise Multifamily
+556701.0,4.0,1965.0,1,0,0,19542.0,1.0,3.0,20296,Multifamily LR (1-4),Low-Rise Multifamily
+832987.0,6.0,1988.0,1,0,0,24459.0,1.0,4.0,31537,Multifamily LR (1-4),Low-Rise Multifamily
+1678495.0,12.0,1980.0,1,0,0,48744.0,1.0,5.0,48744,Multifamily MR (5-9),Mid-Rise Multifamily
+635516.0,12.0,2010.0,1,1,0,22088.0,1.0,5.0,23931,Multifamily MR (5-9),Mid-Rise Multifamily
+871356.0,6.0,1999.0,1,1,0,33396.0,1.0,4.0,39966,Multifamily LR (1-4),Low-Rise Multifamily
+2821489.0,40.0,1999.0,1,1,0,70013.0,1.0,7.0,72763,Multifamily MR (5-9),Mid-Rise Multifamily
+1406648.0,10.0,1980.0,1,0,0,59600.0,1.0,4.0,59600,Multifamily LR (1-4),Low-Rise Multifamily
+687954.0,5.0,1978.0,1,0,0,32170.0,1.0,4.0,40948,Multifamily LR (1-4),Low-Rise Multifamily
+439312.0,15.0,1992.0,1,1,0,28800.0,1.0,2.0,28923,NonResidential,University
+323739.0,6.0,1928.0,1,1,0,21600.0,1.0,3.0,21600,NonResidential,University
+1224685.0,50.0,1925.0,1,1,0,21712.0,1.0,3.0,21712,Multifamily LR (1-4),Low-Rise Multifamily
+1759518.0,39.0,1908.0,1,1,0,39530.0,1.0,5.0,53232,Multifamily MR (5-9),Mid-Rise Multifamily
+1169395.0,18.0,1996.0,1,1,0,25691.0,1.0,1.0,25735,NonResidential,Retail Store
+1675511.0,12.0,1984.0,1,0,0,59742.0,1.0,4.0,57856,Multifamily LR (1-4),Low-Rise Multifamily
+4801472.0,154.0,1956.0,1,1,0,25562.0,1.0,2.0,25862,NonResidential,Retail Store
+3377210.0,30.0,2003.0,1,1,0,47465.0,1.0,2.0,49965,NonResidential,Retail Store
+1018111.0,7.0,1981.0,1,0,0,53698.0,1.0,3.0,53698,Multifamily LR (1-4),Low-Rise Multifamily
+2050861.0,79.0,1911.0,1,1,0,29100.0,1.0,6.0,23338,Multifamily MR (5-9),Mid-Rise Multifamily
+999856.0,25.0,1900.0,1,1,0,34137.0,1.0,6.0,39594,Multifamily MR (5-9),Mid-Rise Multifamily
+511797.0,14.0,1929.0,1,0,1,20028.0,1.0,2.0,20028,NonResidential,Small- and Mid-Sized Office
+3245772.0,94.0,1906.0,1,0,1,51096.0,1.0,10.0,65535,Multifamily HR (10+),High-Rise Multifamily
+552008.0,10.0,1900.0,1,1,0,26195.0,1.0,7.0,23622,NonResidential,Small- and Mid-Sized Office
+883198.0,6.0,1902.0,1,0,0,20183.0,1.0,3.0,23563,NonResidential,Small- and Mid-Sized Office
+1062723.0,24.0,1903.0,1,1,0,12000.0,1.0,3.0,28600,NonResidential,Mixed Use Property
+2186018.0,15.0,1978.0,1,0,0,15549.0,1.0,2.0,26160,NonResidential,Mixed Use Property
+1989287.0,14.0,1906.0,1,0,0,29040.0,1.0,5.0,26840,NonResidential,Small- and Mid-Sized Office
+1245188.0,9.0,1906.0,1,0,0,36019.0,1.0,2.0,46800,NonResidential,Retail Store
+2067352.0,15.0,1979.0,1,1,0,39000.0,1.0,3.0,37350,NonResidential,Small- and Mid-Sized Office
+1345026.0,29.0,1908.0,1,1,0,21600.0,1.0,3.0,28800,NonResidential,Small- and Mid-Sized Office
+1458617.0,40.0,1900.0,1,1,0,19132.0,1.0,3.0,23015,Multifamily LR (1-4),Low-Rise Multifamily
+2214470.0,48.0,2000.0,1,1,0,22129.0,1.0,6.0,36676,Multifamily MR (5-9),Mid-Rise Multifamily
+1696979.0,60.0,1954.0,1,1,0,26556.0,1.0,3.0,28584,NonResidential,Small- and Mid-Sized Office
+1560462.0,34.0,1931.0,1,1,0,26270.0,1.0,2.0,26270,NonResidential,Retail Store
+2385395.0,17.0,1926.0,1,0,0,49800.0,1.0,3.0,49800,NonResidential,Small- and Mid-Sized Office
+3288836.0,155.0,1923.0,1,1,0,33440.0,1.0,3.0,33440,Multifamily LR (1-4),Low-Rise Multifamily
+418348.0,3.0,1954.0,1,0,0,12960.0,1.0,2.0,22616,NonResidential,Mixed Use Property
+2443065.0,66.0,1990.0,1,1,0,57800.0,1.0,5.0,57800,NonResidential,Hotel
+4188660.0,151.0,1994.0,1,1,0,69590.0,1.0,6.0,69590,Multifamily MR (5-9),Mid-Rise Multifamily
+14168729.0,370.0,1990.0,1,1,0,226500.0,1.0,26.0,321050,Multifamily HR (10+),High-Rise Multifamily
+3644982.0,25.0,2000.0,1,0,0,142497.0,1.0,7.0,192077,Multifamily MR (5-9),Mid-Rise Multifamily
+6485203.0,175.0,2008.0,1,1,0,143183.0,1.0,7.0,203940,Multifamily MR (5-9),Mid-Rise Multifamily
+785053.0,23.0,1918.0,1,1,0,21284.0,1.0,3.0,21284,Multifamily LR (1-4),Low-Rise Multifamily
+968698.0,7.0,1908.0,1,0,0,37367.0,1.0,5.0,48786,Multifamily MR (5-9),Mid-Rise Multifamily
+2001936.0,47.0,2002.0,1,1,0,37924.0,1.0,6.0,98222,Multifamily MR (5-9),Mid-Rise Multifamily
+1858225.0,13.0,1955.0,1,0,0,31160.0,1.0,2.0,31890,NonResidential,Other
+1441900.0,42.0,1925.0,1,0,1,25920.0,1.0,2.0,30438,NonResidential,Small- and Mid-Sized Office
+3532966.0,127.0,1923.0,1,1,0,22381.0,1.0,3.0,22381,NonResidential,Restaurant
+22591288.0,594.0,2001.0,1,1,0,538339.0,1.0,31.0,398513,Multifamily HR (10+),High-Rise Multifamily
+33268410.0,1266.0,1926.0,1,1,0,40584.0,0.0,4.0,49249,NonResidential,Laboratory
+439521.0,11.0,1925.0,1,1,0,13940.0,1.0,1.0,23562,NonResidential,Retail Store
+1135172.0,24.0,1991.0,1,1,0,25129.0,1.0,6.0,41030,Multifamily MR (5-9),Mid-Rise Multifamily
+2926090.0,101.0,2002.0,1,1,0,37224.0,1.0,6.0,41359,Multifamily MR (5-9),Mid-Rise Multifamily
+3834440.0,27.0,1989.0,1,1,0,113269.0,1.0,5.0,188715,Multifamily MR (5-9),Mid-Rise Multifamily
+684941.0,5.0,1925.0,1,0,0,23989.0,1.0,3.0,23989,Multifamily LR (1-4),Low-Rise Multifamily
+1553208.0,11.0,1952.0,1,1,0,26670.0,1.0,4.0,26670,NonResidential,Medical Office
+1044221.0,7.0,1991.0,1,0,0,29948.0,1.0,6.0,41834,Multifamily MR (5-9),Mid-Rise Multifamily
+2195828.0,99.0,1922.0,1,1,0,34060.0,1.0,3.0,34060,Multifamily LR (1-4),Low-Rise Multifamily
+3095882.0,86.0,1922.0,1,1,0,38939.0,1.0,2.0,37740,Nonresidential COS,Other
+3993913.0,126.0,1960.0,1,1,0,61180.0,1.0,7.0,48220,NonResidential,Hotel
+8233528.0,78.0,1998.0,1,1,0,277950.0,1.0,6.0,328947,Multifamily MR (5-9),Mid-Rise Multifamily
+3603765.0,25.0,2000.0,1,0,0,132400.0,1.0,6.0,119764,Multifamily MR (5-9),Mid-Rise Multifamily
+2400507.0,103.0,1925.0,1,1,0,40636.0,1.0,3.0,44736,Multifamily LR (1-4),Low-Rise Multifamily
+743748.0,5.0,1923.0,1,0,0,22400.0,1.0,3.0,22400,Multifamily LR (1-4),Low-Rise Multifamily
+3742915.0,26.0,1979.0,1,0,0,70200.0,1.0,13.0,70200,Multifamily HR (10+),High-Rise Multifamily
+890978.0,27.0,1929.0,1,1,0,21840.0,1.0,6.0,21840,Multifamily MR (5-9),Mid-Rise Multifamily
+2204161.0,99.0,1925.0,1,1,0,27993.0,1.0,3.0,33880,Multifamily LR (1-4),Low-Rise Multifamily
+17431872.0,659.0,1949.0,1,1,0,302922.0,1.0,18.0,326619,Multifamily HR (10+),High-Rise Multifamily
+1067154.0,30.0,1965.0,1,1,0,14317.0,1.0,1.0,23752,NonResidential,Small- and Mid-Sized Office
+2669564.0,73.0,1967.0,1,1,0,52668.0,1.0,4.0,44416,NonResidential,Hotel
+2547848.0,31.0,2006.0,1,1,0,8969.0,1.0,2.0,10925,NonResidential,Mixed Use Property
+1494727.0,24.0,2002.0,1,1,0,23580.0,1.0,8.0,34080,Multifamily MR (5-9),Mid-Rise Multifamily
+9851937.0,166.0,1994.0,1,1,0,184567.0,1.0,8.0,224732,Multifamily MR (5-9),Mid-Rise Multifamily
+1827817.0,13.0,1914.0,1,0,0,53228.0,1.0,6.0,62607,Multifamily MR (5-9),Mid-Rise Multifamily
+1308348.0,57.0,1930.0,1,1,0,24742.0,1.0,3.0,29765,Multifamily LR (1-4),Low-Rise Multifamily
+2019673.0,94.0,1928.0,1,1,0,27182.0,1.0,4.0,27182,Multifamily LR (1-4),Low-Rise Multifamily
+520766.0,4.0,1969.0,1,0,0,22374.0,1.0,4.0,22374,Multifamily LR (1-4),Low-Rise Multifamily
+3906967.0,73.0,1910.0,1,1,0,61802.0,1.0,4.0,61802,Multifamily LR (1-4),Low-Rise Multifamily
+1332592.0,9.0,2002.0,1,0,0,26407.0,0.0,4.0,56473,Multifamily LR (1-4),Low-Rise Multifamily
+1484854.0,35.0,1968.0,1,1,0,51490.0,1.0,8.0,51490,Multifamily MR (5-9),Mid-Rise Multifamily
+1384559.0,10.0,1987.0,1,0,0,45348.0,1.0,4.0,45348,Multifamily LR (1-4),Low-Rise Multifamily
+621650.0,4.0,1964.0,1,0,0,26744.0,1.0,4.0,26744,Multifamily LR (1-4),Low-Rise Multifamily
+694306.0,5.0,1987.0,1,0,0,30070.0,1.0,4.0,30060,Multifamily LR (1-4),Low-Rise Multifamily
+1145536.0,36.0,1928.0,1,1,0,45991.0,1.0,2.0,45991,NonResidential,Worship Facility
+5073665.0,87.0,2002.0,1,1,0,96540.0,1.0,5.0,119996,Multifamily MR (5-9),Mid-Rise Multifamily
+574563.0,4.0,1997.0,1,0,0,23794.0,1.0,4.0,23794,Multifamily LR (1-4),Low-Rise Multifamily
+1482554.0,10.0,1988.0,1,0,0,48996.0,1.0,4.0,48996,Multifamily LR (1-4),Low-Rise Multifamily
+925293.0,10.0,2007.0,1,1,0,35106.0,1.0,4.0,37090,Multifamily LR (1-4),Low-Rise Multifamily
+1199360.0,15.0,1998.0,1,1,0,23533.0,1.0,3.0,23533,Multifamily LR (1-4),Low-Rise Multifamily
+1928565.0,27.0,2001.0,1,1,0,45000.0,1.0,6.0,50098,Multifamily MR (5-9),Mid-Rise Multifamily
+806615.0,6.0,1958.0,1,0,0,32612.0,1.0,3.0,32612,Multifamily LR (1-4),Low-Rise Multifamily
+2363161.0,16.0,1971.0,1,0,0,58485.0,1.0,4.0,58485,Multifamily LR (1-4),Low-Rise Multifamily
+2818073.0,20.0,1999.0,1,0,0,91617.0,1.0,3.0,147443,Multifamily LR (1-4),Low-Rise Multifamily
+2213422.0,15.0,1988.0,1,0,0,49089.0,1.0,4.0,52654,Multifamily LR (1-4),Low-Rise Multifamily
+605131.0,4.0,1921.0,1,0,0,21499.0,1.0,3.0,21499,NonResidential,Residence Hall
+1791071.0,14.0,1989.0,1,1,0,25021.0,1.0,2.0,20384,NonResidential,Small- and Mid-Sized Office
+567281.0,4.0,1960.0,1,0,0,21528.0,1.0,4.0,21528,Multifamily LR (1-4),Low-Rise Multifamily
+5238803.0,47.0,1956.0,1,1,0,31905.0,1.0,2.0,39265,NonResidential,Retail Store
+6778694.0,64.0,1956.0,1,1,0,52784.0,1.0,2.0,54284,NonResidential,Retail Store
+2545405.0,28.0,1956.0,1,1,0,21909.0,1.0,1.0,23409,NonResidential,Retail Store
+4644178.0,48.0,1997.0,1,1,0,59396.0,1.0,1.0,63153,NonResidential,Retail Store
+7311466.0,185.0,1980.0,1,1,0,174577.0,1.0,2.0,273154,Multifamily LR (1-4),Low-Rise Multifamily
+2534874.0,18.0,1959.0,1,0,0,26157.0,1.0,3.0,26157,Multifamily LR (1-4),Low-Rise Multifamily
+1587455.0,47.0,1961.0,1,1,0,30910.0,2.0,2.0,24100,NonResidential,Hotel
+4475650.0,102.0,1923.0,1,1,0,19200.0,1.0,3.0,33600,NonResidential,Restaurant
+1852927.0,40.0,1907.0,1,1,0,22050.0,1.0,3.0,39201,Multifamily LR (1-4),Low-Rise Multifamily
+903301.0,25.0,1909.0,1,1,0,12331.0,1.0,3.0,23568,Multifamily LR (1-4),Low-Rise Multifamily
+1412896.0,67.0,1917.0,1,1,0,21130.0,1.0,3.0,21130,Multifamily LR (1-4),Low-Rise Multifamily
+2090896.0,126.0,1914.0,1,1,1,36880.0,1.0,6.0,36880,Multifamily MR (5-9),Mid-Rise Multifamily
+1857155.0,75.0,1927.0,1,0,1,25876.0,1.0,4.0,32356,NonResidential,Other
+3460276.0,99.0,1978.0,1,1,0,32569.0,1.0,5.0,32256,NonResidential,Small- and Mid-Sized Office
+15590743.0,333.0,2008.0,1,1,0,301346.0,1.0,27.0,340214,Multifamily HR (10+),Other
+7821914.0,138.0,1970.0,1,1,0,121455.0,1.0,23.0,140241,Multifamily HR (10+),High-Rise Multifamily
+4691946.0,120.0,1949.0,1,1,0,159820.0,4.0,3.0,159820,Multifamily LR (1-4),Low-Rise Multifamily
+1971310.0,43.0,1968.0,1,1,0,60858.0,1.0,3.0,60858,Multifamily LR (1-4),Low-Rise Multifamily
+883110.0,25.0,1990.0,1,1,0,27923.0,1.0,3.0,28033,Multifamily LR (1-4),Low-Rise Multifamily
+1372575.0,10.0,1986.0,1,0,0,39816.0,1.0,3.0,39816,Multifamily LR (1-4),Low-Rise Multifamily
+496477.0,19.0,1910.0,1,1,0,23931.0,1.0,2.0,23931,NonResidential,Worship Facility
+845961.0,33.0,1948.0,1,1,0,21393.0,1.0,2.0,21393,NonResidential,Worship Facility
+7618626.0,303.0,1915.0,1,1,0,47814.0,1.0,6.0,150374,Multifamily MR (5-9),Mid-Rise Multifamily
+1719815.0,36.0,2010.0,1,1,0,59103.0,1.0,6.0,63924,Multifamily MR (5-9),Mid-Rise Multifamily
+991514.0,7.0,1956.0,1,0,0,20448.0,4.0,2.0,20400,Multifamily LR (1-4),Low-Rise Multifamily
+1132490.0,33.0,1990.0,1,1,0,23146.0,1.0,2.0,47560,NonResidential,Mixed Use Property
+1076733.0,35.0,2006.0,1,1,0,35696.0,1.0,6.0,62334,NonResidential,Senior Care Community
+952896.0,7.0,1982.0,1,0,0,41644.0,1.0,4.0,41664,Multifamily LR (1-4),Low-Rise Multifamily
+1500310.0,65.0,1930.0,1,1,0,20960.0,1.0,3.0,20960,NonResidential,Residence Hall
+5364026.0,200.0,2012.0,1,1,0,36729.0,1.0,7.0,67403,Multifamily MR (5-9),Mid-Rise Multifamily
+10593982.0,123.0,2008.0,1,1,0,414331.0,1.0,37.0,517164,Multifamily HR (10+),High-Rise Multifamily
+2228676.0,80.0,1929.0,1,1,0,36050.0,1.0,5.0,30180,Multifamily MR (5-9),Mid-Rise Multifamily
+717056.0,8.0,1910.0,1,1,0,28800.0,1.0,3.0,28800,NonResidential,University
+1261537.0,39.0,1957.0,1,1,0,21600.0,1.0,2.0,21600,NonResidential,K-12 School
+931149.0,6.0,1995.0,1,0,0,22860.0,1.0,3.0,22860,NonResidential,K-12 School
+697398.0,5.0,1990.0,1,0,0,25490.0,1.0,4.0,25490,Multifamily LR (1-4),Low-Rise Multifamily
+10614234.0,263.0,2010.0,1,1,0,387971.0,1.0,7.0,387971,Multifamily MR (5-9),Mid-Rise Multifamily
+767298.0,5.0,1966.0,1,0,0,25137.0,1.0,3.0,25137,Multifamily LR (1-4),Low-Rise Multifamily
+888032.0,32.0,1972.0,1,1,0,26386.0,1.0,1.0,26366,NonResidential,Worship Facility
+917195.0,6.0,1992.0,1,0,0,31236.0,0.0,4.0,31236,Multifamily LR (1-4),Low-Rise Multifamily
+4230514.0,67.0,2005.0,1,1,0,140759.0,1.0,7.0,140759,Multifamily MR (5-9),Mid-Rise Multifamily
+596242.0,4.0,1999.0,1,0,0,22153.0,1.0,3.0,27119,Multifamily LR (1-4),Low-Rise Multifamily
+860364.0,24.0,1965.0,1,1,0,21732.0,1.0,2.0,21732,NonResidential,Worship Facility
+1359765.0,9.0,1968.0,1,0,0,53285.0,1.0,3.0,60270,Multifamily LR (1-4),Low-Rise Multifamily
+5885428.0,218.0,1968.0,1,1,0,160561.0,1.0,4.0,160561,Multifamily LR (1-4),Low-Rise Multifamily
+1128208.0,8.0,1969.0,1,0,0,34678.0,1.0,4.0,34678,Multifamily LR (1-4),Low-Rise Multifamily
+744245.0,5.0,1977.0,1,0,0,22394.0,1.0,4.0,22394,Multifamily LR (1-4),Low-Rise Multifamily
+5707530.0,156.0,2007.0,1,1,0,117242.0,1.0,6.0,145812,Multifamily MR (5-9),Mid-Rise Multifamily
+350265.0,7.0,1945.0,1,1,0,10495.0,1.0,1.0,21060,NonResidential,Mixed Use Property
+1678459.0,37.0,1960.0,1,1,0,7387.0,1.0,4.0,20539,NonResidential,Mixed Use Property
+601813.0,4.0,1985.0,1,0,0,22874.0,1.0,5.0,22874,Multifamily MR (5-9),Mid-Rise Multifamily
+510528.0,4.0,1965.0,1,0,0,21469.0,1.0,3.0,21469,Multifamily LR (1-4),Low-Rise Multifamily
+1928562.0,13.0,1984.0,1,0,0,50252.0,1.0,4.0,50252,Multifamily LR (1-4),Low-Rise Multifamily
+593953.0,4.0,1978.0,1,0,0,20480.0,1.0,3.0,22824,Multifamily LR (1-4),Low-Rise Multifamily
+1168018.0,8.0,1988.0,1,0,0,43180.0,1.0,3.0,57338,Multifamily LR (1-4),Low-Rise Multifamily
+3185006.0,87.0,1928.0,1,1,0,93502.0,1.0,8.0,93502,Multifamily MR (5-9),Mid-Rise Multifamily
+630214.0,4.0,1909.0,1,0,0,12640.0,1.0,4.0,20260,Multifamily LR (1-4),Low-Rise Multifamily
+813641.0,6.0,1900.0,1,0,0,32960.0,1.0,3.0,32960,NonResidential,Retail Store
+688642.0,5.0,1921.0,1,0,0,25096.0,1.0,3.0,29636,NonResidential,Other
+716280.0,5.0,1930.0,1,0,0,20571.0,1.0,3.0,20571,NonResidential,Hotel
+620154.0,4.0,1956.0,1,0,0,23742.0,1.0,4.0,23742,Multifamily LR (1-4),Low-Rise Multifamily
+635223.0,4.0,1964.0,1,0,0,22344.0,1.0,4.0,22344,Multifamily LR (1-4),Low-Rise Multifamily
+585737.0,4.0,1981.0,1,0,0,21176.0,1.0,3.0,24492,Multifamily LR (1-4),Low-Rise Multifamily
+682089.0,5.0,1962.0,1,0,0,31075.0,1.0,5.0,31075,Multifamily MR (5-9),Mid-Rise Multifamily
+887017.0,6.0,1925.0,1,0,0,28700.0,1.0,3.0,28700,Multifamily LR (1-4),Low-Rise Multifamily
+659369.0,16.0,1924.0,1,1,0,22542.0,1.0,3.0,22542,Multifamily LR (1-4),Low-Rise Multifamily
+803533.0,22.0,1923.0,1,1,0,24680.0,1.0,4.0,24680,Multifamily LR (1-4),Low-Rise Multifamily
+2568378.0,64.0,1928.0,1,1,0,60799.0,1.0,8.0,63837,Multifamily MR (5-9),Mid-Rise Multifamily
+3040196.0,118.0,1926.0,1,1,0,37800.0,1.0,2.0,47992,NonResidential,Worship Facility
+1646088.0,60.0,1916.0,1,1,0,14206.0,1.0,3.0,22320,Multifamily LR (1-4),Low-Rise Multifamily
+2717863.0,90.0,1993.0,1,1,0,22000.0,1.0,3.0,28572,NonResidential,Residence Hall
+711594.0,5.0,1964.0,1,0,0,26639.0,1.0,4.0,26639,Multifamily LR (1-4),Low-Rise Multifamily
+783355.0,5.0,1963.0,1,0,0,27671.0,1.0,4.0,34735,Multifamily LR (1-4),Low-Rise Multifamily
+705948.0,5.0,1963.0,1,0,0,20159.0,1.0,4.0,25568,Multifamily LR (1-4),Low-Rise Multifamily
+945746.0,26.0,1927.0,1,1,0,25904.0,1.0,3.0,25904,Multifamily LR (1-4),Low-Rise Multifamily
+811908.0,6.0,1941.0,1,0,0,24548.0,1.0,3.0,24548,Multifamily LR (1-4),Low-Rise Multifamily
+1884195.0,13.0,1970.0,1,0,0,53480.0,1.0,9.0,71827,Multifamily MR (5-9),Mid-Rise Multifamily
+117438.0,1.0,1963.0,1,0,0,20047.0,1.0,2.0,20047,NonResidential,Other
+3897250.0,39.0,2008.0,1,1,0,141650.0,1.0,6.0,145350,Multifamily MR (5-9),Mid-Rise Multifamily
+3091348.0,22.0,2004.0,1,0,0,114503.0,1.0,7.0,169931,Multifamily MR (5-9),Mid-Rise Multifamily
+2885740.0,51.0,1998.0,1,1,0,69452.0,1.0,6.0,69452,Multifamily MR (5-9),Mid-Rise Multifamily
+1144018.0,8.0,1999.0,1,0,0,47791.0,1.0,6.0,47791,Multifamily MR (5-9),Mid-Rise Multifamily
+957420.0,9.0,1969.0,1,1,0,29683.0,1.0,4.0,29683,Multifamily LR (1-4),Low-Rise Multifamily
+1731456.0,44.0,2003.0,1,1,0,42077.0,1.0,8.0,40791,Multifamily MR (5-9),Mid-Rise Multifamily
+2681050.0,52.0,1971.0,1,1,0,56319.0,1.0,5.0,56319,Multifamily MR (5-9),Mid-Rise Multifamily
+623322.0,4.0,1975.0,1,0,0,30948.0,1.0,4.0,30948,Multifamily LR (1-4),Low-Rise Multifamily
+948225.0,7.0,1988.0,1,0,0,30786.0,1.0,4.0,39319,Multifamily LR (1-4),Low-Rise Multifamily
+1604130.0,11.0,1984.0,1,0,0,41443.0,1.0,4.0,41443,Multifamily LR (1-4),Low-Rise Multifamily
+3515821.0,25.0,1975.0,1,0,0,130709.0,1.0,3.0,130680,Multifamily LR (1-4),Low-Rise Multifamily
+2882490.0,20.0,1982.0,1,0,0,150000.0,0.0,15.0,84240,NonResidential,Residence Hall
+1128179.0,27.0,2000.0,1,1,0,30000.0,1.0,2.0,31386,NonResidential,Worship Facility
+6689184.0,203.0,1989.0,1,1,0,96154.0,5.0,3.0,21500,Campus,K-12 School
+2834238.0,20.0,1989.0,1,0,0,96578.0,1.0,5.0,140778,Multifamily MR (5-9),Mid-Rise Multifamily
+606111.0,4.0,1961.0,1,0,0,28876.0,4.0,4.0,30834,Multifamily LR (1-4),Low-Rise Multifamily
+464721.0,3.0,2002.0,1,0,0,21536.0,1.0,5.0,21536,Multifamily MR (5-9),Mid-Rise Multifamily
+1016147.0,7.0,1988.0,1,0,0,47873.0,2.0,4.0,47873,Multifamily LR (1-4),Low-Rise Multifamily
+853314.0,6.0,1985.0,1,0,0,39581.0,1.0,4.0,39581,Multifamily LR (1-4),Low-Rise Multifamily
+488515.0,3.0,1989.0,1,0,0,21787.0,1.0,4.0,23177,Multifamily LR (1-4),Low-Rise Multifamily
+1544388.0,11.0,1991.0,1,0,0,45319.0,1.0,5.0,54360,Multifamily MR (5-9),Mid-Rise Multifamily
+2641682.0,20.0,2012.0,1,1,0,55000.0,1.0,2.0,57619,NonResidential,Small- and Mid-Sized Office
+8690648.0,356.0,1925.0,1,1,1,96000.0,1.0,9.0,104000,NonResidential,Hotel
+3321036.0,23.0,1981.0,1,0,0,58665.0,1.0,3.0,78374,NonResidential,Senior Care Community
+2391566.0,17.0,1992.0,1,0,0,81732.0,1.0,4.0,121037,Multifamily LR (1-4),Low-Rise Multifamily
+1841154.0,26.0,2007.0,1,1,0,16826.0,1.0,2.0,38784,NonResidential,Mixed Use Property
+578854.0,4.0,1984.0,1,0,0,26568.0,1.0,4.0,26568,Multifamily LR (1-4),Low-Rise Multifamily
+5249190.0,132.0,2007.0,1,1,0,165553.0,1.0,6.0,182494,Multifamily MR (5-9),Mid-Rise Multifamily
+2167888.0,15.0,2007.0,1,0,0,113462.0,1.0,6.0,113462,Multifamily MR (5-9),Mid-Rise Multifamily
+2177075.0,33.0,1969.0,1,1,0,21790.0,1.0,2.0,41790,NonResidential,Other
+2178690.0,50.0,1900.0,1,1,0,37120.0,1.0,5.0,39960,NonResidential,Small- and Mid-Sized Office
+90559.0,1.0,1900.0,1,0,0,24000.0,1.0,5.0,33300,NonResidential,Warehouse
+2147968.0,121.0,1926.0,1,1,1,36240.0,1.0,11.0,36240,NonResidential,Hotel
+3042876.0,145.0,1922.0,1,1,1,39320.0,1.0,3.0,32360,NonResidential,Other
+1606981.0,63.0,1907.0,1,1,0,41452.0,1.0,5.0,41452,Multifamily MR (5-9),Mid-Rise Multifamily
+2735166.0,19.0,1908.0,1,0,0,41536.0,1.0,5.0,41536,NonResidential,Other
+3300549.0,123.0,1916.0,1,1,0,45320.0,0.0,3.0,45320,Multifamily LR (1-4),Low-Rise Multifamily
+3321603.0,131.0,1909.0,1,1,0,35820.0,1.0,6.0,35820,NonResidential,Hotel
+1249939.0,16.0,2003.0,1,1,0,32063.0,1.0,4.0,42984,Multifamily LR (1-4),Low-Rise Multifamily
+3987216.0,185.0,1922.0,1,1,0,57896.0,1.0,2.0,33462,NonResidential,K-12 School
+2096836.0,89.0,1965.0,1,1,0,49744.0,1.0,3.0,49744,NonResidential,K-12 School
+1411306.0,43.0,1923.0,1,1,0,19407.0,1.0,2.0,37816,NonResidential,Worship Facility
+1354001.0,35.0,1926.0,1,1,0,7758.0,0.0,2.0,23315,NonResidential,Mixed Use Property
+4265815.0,189.0,1930.0,1,1,0,6900.0,1.0,2.0,20700,NonResidential,Mixed Use Property
+3093583.0,72.0,1979.0,1,1,0,64602.0,1.0,9.0,64602,Multifamily MR (5-9),Mid-Rise Multifamily
+3343550.0,100.0,1948.0,1,1,0,26241.0,1.0,1.0,28397,NonResidential,Other
+1906385.0,13.0,1946.0,1,0,0,25762.0,1.0,2.0,25762,NonResidential,Supermarket / Grocery Store
+5149928.0,129.0,2010.0,1,1,0,127364.0,1.0,7.0,213016,Multifamily MR (5-9),Mid-Rise Multifamily
+6118300.0,210.0,1984.0,1,1,0,50000.0,1.0,1.0,33334,NonResidential,Other
+2686765.0,34.0,1981.0,1,1,0,45000.0,1.0,3.0,43387,NonResidential,Small- and Mid-Sized Office
+908204.0,6.0,1960.0,1,0,0,28750.0,1.0,2.0,23983,Multifamily LR (1-4),Low-Rise Multifamily
+614045.0,4.0,1963.0,1,0,0,25891.0,1.0,4.0,29351,Multifamily LR (1-4),Low-Rise Multifamily
+4358944.0,73.0,2003.0,1,1,0,52514.0,1.0,7.0,85990,Multifamily MR (5-9),Mixed Use Property
+1118773.0,50.0,1920.0,1,1,0,25475.0,1.0,3.0,25475,Multifamily LR (1-4),Low-Rise Multifamily
+1234574.0,9.0,1968.0,1,0,0,38212.0,1.0,3.0,40779,Multifamily LR (1-4),Low-Rise Multifamily
+1093724.0,8.0,1965.0,1,0,0,30810.0,1.0,3.0,38328,Multifamily LR (1-4),Low-Rise Multifamily
+267135.0,2.0,1979.0,1,0,0,19271.0,1.0,1.0,39350,NonResidential,Mixed Use Property
+6649938.0,178.0,2008.0,1,1,0,150092.0,1.0,6.0,193691,Multifamily MR (5-9),Mid-Rise Multifamily
+3498215.0,135.0,1949.0,1,1,0,11000.0,0.0,1.0,22405,NonResidential,Other
+3739030.0,69.0,1971.0,1,1,0,86283.0,1.0,7.0,86283,Multifamily MR (5-9),Mid-Rise Multifamily
+2536761.0,18.0,2001.0,1,0,0,71073.0,1.0,6.0,57775,Multifamily MR (5-9),Mid-Rise Multifamily
+9162048.0,261.0,2001.0,1,1,0,179623.0,3.0,5.0,227479,Multifamily MR (5-9),Mid-Rise Multifamily
+1541898.0,11.0,1986.0,1,0,0,67624.0,1.0,3.0,67624,Multifamily LR (1-4),Low-Rise Multifamily
+1361794.0,43.0,2013.0,1,1,0,32590.0,1.0,1.0,32590,SPS-District K-12,Other
+1808401.0,13.0,1978.0,1,0,0,65000.0,1.0,4.0,73234,Multifamily LR (1-4),Low-Rise Multifamily
+2249450.0,16.0,1988.0,1,0,0,54168.0,1.0,5.0,145018,Multifamily MR (5-9),Mid-Rise Multifamily
+1811506.0,13.0,1985.0,1,1,0,61419.0,1.0,1.0,37500,NonResidential,Warehouse
+2615248.0,34.0,1990.0,1,1,0,39000.0,1.0,2.0,39000,NonResidential,Medical Office
+5089083.0,147.0,1924.0,1,1,0,14000.0,1.0,1.0,22180,NonResidential,Other
+1423929.0,10.0,1984.0,1,0,0,44900.0,1.0,3.0,66885,Multifamily LR (1-4),Low-Rise Multifamily
+738592.0,26.0,2007.0,1,1,0,15418.0,1.0,4.0,28560,Multifamily LR (1-4),Low-Rise Multifamily
+1433573.0,10.0,1980.0,1,0,0,43490.0,1.0,3.0,52166,Multifamily LR (1-4),Low-Rise Multifamily
+1219745.0,12.0,1969.0,1,1,0,19277.0,1.0,1.0,25920,NonResidential,Distribution Center
+741287.0,5.0,1953.0,1,0,0,25480.0,1.0,1.0,25480,NonResidential,Refrigerated Warehouse
+2301044.0,20.0,1970.0,1,1,0,31000.0,1.0,2.0,31000,NonResidential,Warehouse
+1467060.0,20.0,1961.0,1,1,0,17804.0,1.0,1.0,29740,NonResidential,Small- and Mid-Sized Office
+433871.0,13.0,1954.0,1,1,0,20736.0,1.0,1.0,23236,NonResidential,Distribution Center
+1921801.0,19.0,2009.0,1,1,0,29035.0,1.0,3.0,38075,NonResidential,Small- and Mid-Sized Office
+3944934.0,47.0,1969.0,1,1,0,111176.0,1.0,7.0,139530,Multifamily MR (5-9),Mid-Rise Multifamily
+2130674.0,63.0,1970.0,1,1,0,35500.0,1.0,2.0,39170,NonResidential,Small- and Mid-Sized Office
+1441665.0,10.0,1977.0,1,0,0,66597.0,0.0,1.0,36070,Nonresidential COS,Other
+1237655.0,41.0,2002.0,1,1,0,21169.0,1.0,5.0,25514,Multifamily MR (5-9),Mid-Rise Multifamily
+1162008.0,8.0,1968.0,1,0,0,37080.0,1.0,3.0,37080,Multifamily LR (1-4),Low-Rise Multifamily
+791036.0,6.0,2002.0,1,0,0,21772.0,0.0,3.0,22108,Multifamily LR (1-4),Low-Rise Multifamily
+557864.0,4.0,1914.0,1,0,0,20000.0,1.0,1.0,20000,NonResidential,Retail Store
+248616.0,2.0,1955.0,1,0,0,32700.0,1.0,2.0,32400,NonResidential,Warehouse
+1618536.0,11.0,2008.0,1,0,0,38682.0,1.0,4.0,84147,Multifamily LR (1-4),Mixed Use Property
+8905287.0,248.0,1962.0,1,1,0,25883.0,1.0,1.0,25159,NonResidential,Supermarket / Grocery Store
+2531163.0,37.0,2007.0,1,1,0,33547.0,1.0,4.0,83175,Multifamily LR (1-4),Mixed Use Property
+2332996.0,83.0,1948.0,1,1,0,14317.0,1.0,1.0,27247,Nonresidential COS,Other
+2128964.0,94.0,1928.0,1,1,0,58735.0,1.0,5.0,58735,Multifamily MR (5-9),Mid-Rise Multifamily
+990362.0,7.0,2015.0,1,0,0,30629.0,2.0,3.0,23293,Multifamily LR (1-4),Low-Rise Multifamily
+1639849.0,74.0,1928.0,1,1,0,31455.0,1.0,3.0,34455,Multifamily LR (1-4),Low-Rise Multifamily
+759406.0,5.0,1990.0,1,0,0,28038.0,1.0,4.0,28038,Multifamily LR (1-4),Low-Rise Multifamily
+595978.0,4.0,1924.0,1,0,0,24939.0,1.0,3.0,24939,Multifamily LR (1-4),Low-Rise Multifamily
+243518.0,2.0,1955.0,1,0,0,33987.0,1.0,1.0,26680,NonResidential,Distribution Center
+1788148.0,62.0,1953.0,1,1,0,31521.0,1.0,1.0,31521,NonResidential,Warehouse
+1257034.0,47.0,1951.0,1,1,0,20400.0,1.0,1.0,24000,NonResidential,Warehouse
+1333638.0,66.0,1952.0,1,1,0,21900.0,1.0,1.0,21900,NonResidential,Self-Storage Facility
+752094.0,11.0,1961.0,1,1,0,21560.0,1.0,1.0,38005,NonResidential,Warehouse
+1096646.0,39.0,1998.0,1,1,0,35579.0,1.0,1.0,35579,NonResidential,Distribution Center
+685888.0,5.0,2008.0,1,0,0,23495.0,1.0,5.0,25885,Multifamily MR (5-9),Mid-Rise Multifamily
+238970.0,2.0,1975.0,1,0,0,49950.0,1.0,1.0,49950,NonResidential,Distribution Center
+3960899.0,50.0,1967.0,1,1,0,93154.0,0.0,4.0,118154,Multifamily LR (1-4),Low-Rise Multifamily
+2845068.0,95.0,2004.0,1,1,0,62565.0,1.0,5.0,62665,Multifamily MR (5-9),Mid-Rise Multifamily
+757167.0,5.0,1987.0,1,0,0,34924.0,1.0,4.0,34924,Multifamily LR (1-4),Low-Rise Multifamily
+731322.0,32.0,1947.0,1,1,0,22612.0,1.0,2.0,22612,NonResidential,Worship Facility
+693045.0,5.0,2003.0,1,0,0,27076.0,1.0,4.0,27076,Multifamily LR (1-4),Low-Rise Multifamily
+1518549.0,15.0,1999.0,1,1,0,48150.0,1.0,6.0,48150,Multifamily MR (5-9),Mid-Rise Multifamily
+2294737.0,72.0,1991.0,1,1,0,59227.0,2.0,5.0,59227,Multifamily MR (5-9),Mid-Rise Multifamily
+3204686.0,68.0,1976.0,1,1,0,38787.0,1.0,2.0,38787,NonResidential,Other
+753275.0,29.0,1988.0,1,1,0,50369.0,2.0,2.0,50368,NonResidential,Self-Storage Facility
+1577041.0,62.0,1938.0,1,1,0,23545.0,1.0,1.0,30545,NonResidential,Warehouse
+1866460.0,89.0,1907.0,1,1,0,25248.0,1.0,3.0,25248,Multifamily LR (1-4),Low-Rise Multifamily
+770736.0,11.0,1910.0,1,1,0,28380.0,1.0,3.0,28380,Multifamily LR (1-4),Low-Rise Multifamily
+1750100.0,83.0,1907.0,1,1,0,24783.0,1.0,3.0,24783,Multifamily LR (1-4),Low-Rise Multifamily
+1349970.0,32.0,1926.0,1,1,0,37767.0,1.0,5.0,40572,Multifamily MR (5-9),Mid-Rise Multifamily
+1116475.0,34.0,1948.0,1,1,0,26044.0,1.0,3.0,26044,Multifamily LR (1-4),Low-Rise Multifamily
+1764767.0,35.0,1970.0,1,1,0,36926.0,1.0,8.0,36926,Multifamily MR (5-9),Mid-Rise Multifamily
+4633186.0,200.0,1950.0,1,1,0,84138.0,1.0,6.0,84138,Multifamily MR (5-9),Mid-Rise Multifamily
+1993766.0,93.0,1928.0,1,1,0,35070.0,1.0,3.0,28284,Multifamily LR (1-4),Low-Rise Multifamily
+1106701.0,48.0,1928.0,1,1,0,21376.0,1.0,3.0,21376,Multifamily LR (1-4),Low-Rise Multifamily

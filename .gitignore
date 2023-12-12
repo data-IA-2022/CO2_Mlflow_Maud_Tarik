@@ -1,0 +1,27 @@
+# Ignore Python virtual environment directories
+venv/
+env/
+.venv/
+mlflow_env/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore operating system and IDE-specific files
+.DS_Store
+.vscode/
+.idea/
+
+# Ignore log and temporary files
+*.log
+*.tmp
+
+# Ignore sensitive configuration files (add your own)
+config.ini
+secrets.yaml
+
+# Ignore models
+data/best_model_GradientBoostingRegressor.pkl
+data/best_model_XGBRegressor.pkl
+data/best_parameters_GradientBoostingRegressor.pkl
+data/best_parameters_XGBRegressor.pkl
