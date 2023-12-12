@@ -306,7 +306,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 3484915.5,24.29,1971,1,0,0,69691.0,1.0,5,66400,NonResidential,Small- and Mid-Sized Office
 19165116.0,477.87,1988,1,1,0,108344.0,1.0,4,108344,NonResidential,Medical Office
 8422861.0,77.99,1994,1,1,0,95995.0,1.0,4,95995,NonResidential,Medical Office
-5697472.5,163.83,1946,1,1,0,,2.0,2,111445,NonResidential,Self-Storage Facility
 1090496.625,22.44,1997,1,1,0,98475.0,1.0,4,98475,NonResidential,Warehouse
 42709624.0,1032.63,2000,1,1,0,215602.0,1.0,7,201075,NonResidential,Hospital
 14512786.0,277.98,1995,1,1,0,121087.0,1.0,2,121087,NonResidential,Supermarket / Grocery Store
@@ -999,7 +998,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 739869.6875,19.76,1910,1,1,0,24540.0,1.0,4,24540,Multifamily LR (1-4),Low-Rise Multifamily
 2248134.5,101.96,1930,1,1,0,37944.0,1.0,3,37944,Multifamily LR (1-4),Low-Rise Multifamily
 623107.6875,28.44,1917,1,1,0,28546.0,1.0,4,28546,Multifamily LR (1-4),Small- and Mid-Sized Office
-13217550.0,408.82,1999,1,1,0,,1.0,13,219874,Multifamily HR (10+),High-Rise Multifamily
 3704086.5,127.74,1970,1,1,0,62422.0,1.0,8,66096,Multifamily MR (5-9),Mid-Rise Multifamily
 14619984.0,551.53,1981,1,1,0,152674.0,1.0,33,190610,Multifamily HR (10+),High-Rise Multifamily
 1386983.375,9.67,1989,1,0,0,37859.0,1.0,5,50028,Multifamily MR (5-9),Mid-Rise Multifamily
@@ -1065,7 +1063,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 478690.0938,3.34,1916,1,0,0,25920.0,1.0,2,25920,NonResidential,Retail Store
 3752132.25,60.29,1999,1,1,0,91880.0,1.0,6,139650,Multifamily MR (5-9),Mid-Rise Multifamily
 1011667.5,13.71,1919,1,1,0,38880.0,1.0,2,25920,NonResidential,Retail Store
-2897079.75,36.92,1910,1,1,0,,1.0,8,61721,NonResidential,Hotel
 1046995.188,27.93,1918,1,1,0,32760.0,1.0,5,32760,Multifamily MR (5-9),Mid-Rise Multifamily
 6503353.5,221.1,2007,1,1,0,66527.0,1.0,6,96980,Multifamily MR (5-9),Mid-Rise Multifamily
 1793851.375,46.48,1919,1,1,0,23995.0,1.0,2,25920,NonResidential,Small- and Mid-Sized Office
@@ -1390,7 +1387,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 13631685.0,372.55,1982,1,1,0,231352.0,1.0,33,231352,Multifamily HR (10+),High-Rise Multifamily
 729397.1875,5.08,1981,1,0,0,23483.0,1.0,1,20971,NonResidential,Other
 1568382.25,43.52,1913,1,1,0,31320.0,1.0,8,43884,Multifamily MR (5-9),Mid-Rise Multifamily
-1289661.25,8.99,2000,1,0,0,,1.0,5,45715,Multifamily MR (5-9),Mid-Rise Multifamily
 10992344.0,173.23,2008,1,1,0,124061.0,1.0,5,490053,Multifamily MR (5-9),Mixed Use Property
 1162226.375,17.3,2005,1,1,0,32038.0,1.0,4,32038,Multifamily LR (1-4),Low-Rise Multifamily
 873577.3125,15.11,1927,1,1,0,20000.0,1.0,3,23910,NonResidential,Small- and Mid-Sized Office
@@ -1656,7 +1652,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 14524386.0,712.39,1951,1,1,1,47000.0,1.0,1,47699,NonResidential,Other
 25311526.0,1110.07,1945,1,0,1,228133.0,1.0,0,274568,NonResidential,Medical Office
 1245923.75,62.23,1956,1,0,1,19658.0,1.0,3,21282,NonResidential,Small- and Mid-Sized Office
-2718223.0,18.95,1982,1,0,0,,1.0,17,76855,Multifamily HR (10+),High-Rise Multifamily
 3787648.25,26.41,1921,1,0,0,41022.0,1.0,2,41022,NonResidential,Other
 1967434.5,21.55,1982,1,1,0,59165.0,1.0,4,93087,Multifamily LR (1-4),Low-Rise Multifamily
 2299535.25,30.86,1965,1,1,0,52000.0,1.0,3,86835,Multifamily LR (1-4),Low-Rise Multifamily
@@ -1668,7 +1663,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 1971236.0,13.74,2000,1,0,0,80250.0,1.0,6,103554,Multifamily MR (5-9),Mid-Rise Multifamily
 113130.0,2.69,1977,1,1,0,21936.0,1.0,1,21936,NonResidential,Warehouse
 1045838.5,44.26,1969,1,1,0,30139.0,1.0,1,30160,NonResidential,Other
-563683.1875,,1992,0,0,0,,,4,29357,Multifamily LR (1-4),Low-Rise Multifamily
 703847.375,4.91,1991,1,0,0,24665.0,1.0,4,28645,Multifamily LR (1-4),Low-Rise Multifamily
 923492.6875,13.09,1991,1,1,0,24813.0,1.0,4,34544,Multifamily LR (1-4),Low-Rise Multifamily
 604183.1875,4.21,1960,1,0,0,22195.0,1.0,3,22195,Multifamily LR (1-4),Low-Rise Multifamily
@@ -2198,7 +2192,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 4135650.5,28.83,1988,1,0,0,166858.0,10.0,3,166858,Multifamily LR (1-4),Low-Rise Multifamily
 810296.6875,5.65,1978,1,0,0,22755.0,0.0,3,27317,Multifamily LR (1-4),Low-Rise Multifamily
 1002869.125,6.99,1963,1,0,0,28922.0,1.0,5,28922,Multifamily MR (5-9),Mid-Rise Multifamily
-770275.5,,1963,0,0,0,,,4,28472,Multifamily LR (1-4),Low-Rise Multifamily
 5179141.5,232.1,1921,1,1,0,104064.0,1.0,4,104064,Multifamily LR (1-4),Low-Rise Multifamily
 2280561.0,73.48,1988,1,1,0,44352.0,1.0,4,44352,Multifamily LR (1-4),Low-Rise Multifamily
 16378152.0,588.25,1959,1,1,0,101035.0,1.0,2,122679,NonResidential,University
@@ -2213,7 +2206,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 1073156.375,36.82,1956,1,1,0,31184.0,1.0,1,39984,NonResidential,Warehouse
 1019830.375,7.11,1997,1,0,0,39433.0,1.0,4,55977,Multifamily LR (1-4),Low-Rise Multifamily
 3600532.5,61.86,1968,1,1,0,91907.0,1.0,2,91907,Multifamily LR (1-4),Low-Rise Multifamily
-559718.125,3.9,1978,1,0,0,,1.0,4,20844,Multifamily LR (1-4),Low-Rise Multifamily
 917728.375,23.9,1998,1,1,0,18581.0,1.0,3,26578,Multifamily LR (1-4),Low-Rise Multifamily
 1044216.813,7.28,1984,1,0,0,24620.0,1.0,4,24620,Multifamily LR (1-4),Low-Rise Multifamily
 754241.3125,18.65,1925,1,1,0,16379.0,1.0,3,21512,Multifamily LR (1-4),Low-Rise Multifamily
@@ -2287,7 +2279,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 188745.7031,7.05,1900,1,1,0,22200.0,1.0,3,22200,NonResidential,Other
 3768900.5,50.05,1968,1,1,0,19749.0,1.0,2,29498,NonResidential,Warehouse
 466672.6875,3.25,1938,1,0,0,23050.0,1.0,1,23050,NonResidential,Warehouse
-3168131.0,22.09,2008,1,0,0,,1.0,4,48350,NonResidential,Small- and Mid-Sized Office
 1582655.875,20.66,1930,1,1,0,46000.0,1.0,1,46059,NonResidential,Retail Store
 602148.0,4.2,1986,1,0,0,23162.0,1.0,3,32331,Multifamily LR (1-4),Low-Rise Multifamily
 522880.0938,3.65,1988,1,0,0,21100.0,1.0,4,40152,Multifamily LR (1-4),Low-Rise Multifamily
@@ -2331,7 +2322,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 2473814.25,85.88,1909,1,1,0,30387.0,1.0,4,33887,Multifamily LR (1-4),Low-Rise Multifamily
 4644346.0,190.45,1908,1,1,0,21600.0,1.0,3,28800,NonResidential,Hotel
 1324534.625,59.08,1907,1,1,0,25600.0,1.0,3,25600,Multifamily LR (1-4),Low-Rise Multifamily
-899924.1875,29.21,1913,1,1,0,,1.0,3,28800,NonResidential,Restaurant
 3605755.5,25.14,1979,1,0,0,24227.0,1.0,3,35202,NonResidential,Small- and Mid-Sized Office
 588492.5,7.71,1963,1,1,0,18100.0,1.0,4,23150,Multifamily LR (1-4),Low-Rise Multifamily
 1013823.0,25.44,1960,1,1,0,37151.0,1.0,4,37151,Multifamily LR (1-4),Low-Rise Multifamily
@@ -2350,7 +2340,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 383524.0,2.67,1988,1,0,0,21581.0,1.0,4,21581,Multifamily LR (1-4),Low-Rise Multifamily
 1614673.625,11.26,1920,1,0,0,47346.0,1.0,4,57212,Multifamily LR (1-4),Low-Rise Multifamily
 6206083.5,58.82,1990,1,1,0,131307.0,1.0,2,131307,Multifamily LR (1-4),Low-Rise Multifamily
-1049638.75,,1969,0,0,0,,,3,30420,Multifamily LR (1-4),Low-Rise Multifamily
 2037720.625,14.21,1961,1,0,0,109726.0,0.0,3,54863,NonResidential,Hospital
 1416488.75,64.46,1910,1,1,0,27328.0,1.0,3,27328,Multifamily LR (1-4),Low-Rise Multifamily
 669117.0,5.57,1958,1,1,0,23200.0,1.0,3,23200,Multifamily LR (1-4),Low-Rise Multifamily
@@ -2413,7 +2402,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 2105912.75,42.93,1998,1,1,0,82514.0,1.0,5,82514,Multifamily MR (5-9),Mid-Rise Multifamily
 521341.9063,3.63,1977,1,0,0,22202.0,1.0,3,22202,Multifamily LR (1-4),Low-Rise Multifamily
 1656025.625,11.54,1989,1,0,0,48756.0,1.0,4,71280,Multifamily LR (1-4),Low-Rise Multifamily
-936584.375,6.53,1981,1,0,0,,1.0,3,35122,Multifamily LR (1-4),Low-Rise Multifamily
 547084.375,3.81,1966,1,0,0,22348.0,1.0,3,24259,Multifamily LR (1-4),Low-Rise Multifamily
 640377.0,18.81,1994,1,1,0,66720.0,1.0,3,66610,NonResidential,Self-Storage Facility
 3646053.75,58.79,1950,1,1,0,34000.0,1.0,1,36000,NonResidential,Other
@@ -2738,7 +2726,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 1436109.0,10.01,1990,1,0,0,57091.0,2.0,5,57091,Multifamily MR (5-9),Mid-Rise Multifamily
 855946.0,5.97,1958,1,0,0,30240.0,4.0,3,30240,Multifamily LR (1-4),Low-Rise Multifamily
 558893.375,3.9,1979,1,0,0,18171.0,1.0,3,21798,Multifamily LR (1-4),Low-Rise Multifamily
-1247918.0,8.7,1981,1,0,0,,1.0,3,42448,Multifamily LR (1-4),Low-Rise Multifamily
 5614256.5,187.97,2002,1,1,0,138442.0,1.0,5,125241,Multifamily MR (5-9),Mid-Rise Multifamily
 592899.0,16.43,1997,1,1,0,21900.0,1.0,6,21900,Multifamily MR (5-9),Mid-Rise Multifamily
 847514.5,5.91,1931,1,0,0,32430.0,1.0,4,32430,Multifamily LR (1-4),Low-Rise Multifamily
@@ -2886,7 +2873,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 1581425.75,64.86,1926,1,1,0,13350.0,1.0,2,20366,Multifamily LR (1-4),Low-Rise Multifamily
 698326.625,4.87,1974,1,0,0,23888.0,1.0,4,23888,Multifamily LR (1-4),Low-Rise Multifamily
 747994.8125,5.21,2000,1,0,0,28785.0,1.0,4,45579,Multifamily LR (1-4),Low-Rise Multifamily
-715252.625,16.31,1997,1,1,0,,1.0,4,23175,Multifamily LR (1-4),Low-Rise Multifamily
 1021754.688,7.12,2004,1,0,0,45300.0,1.0,6,97229,NonResidential,Mixed Use Property
 2828098.5,49.58,1969,1,1,0,72716.0,1.0,7,72716,Multifamily MR (5-9),Mid-Rise Multifamily
 2918553.25,127.05,2002,1,1,0,46895.0,1.0,5,73495,Multifamily MR (5-9),Mid-Rise Multifamily
@@ -3185,7 +3171,6 @@ siteenergyusekbtu,totalghgemissions,yearbuilt,is_using_electricitykWh,is_using_n
 4433091.5,86.25,2020,1,1,0,187477.0,1.0,7,187477,Multifamily MR (5-9),Mid-Rise Multifamily
 4832277.5,103.37,2020,1,1,0,115768.0,1.0,20,137753,Multifamily HR (10+),High-Rise Multifamily
 1325972.75,9.24,2020,1,0,0,45728.0,1.0,3,45000,NonResidential,K-12 School
-820220.125,,2015,0,0,0,,1.0,4,28431,Multifamily LR (1-4),Low-Rise Multifamily
 6562457.5,205.52,2015,1,1,0,154913.0,1.0,7,162213,Multifamily MR (5-9),Mid-Rise Multifamily
 2751301.25,31.55,2015,1,0,0,49324.0,1.0,4,48311,Multifamily LR (1-4),Low-Rise Multifamily
 1170777.125,28.08,2015,1,1,0,42014.0,1.0,4,41403,Multifamily LR (1-4),Low-Rise Multifamily
