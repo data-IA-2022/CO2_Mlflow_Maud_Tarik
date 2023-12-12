@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/601757128816916662/e3a4bd60a7fe468e9b41263e11fc1cc4/artifacts
+end_time: 1702295546252
+entry_point_name: ''
+experiment_id: '601757128816916662'
+lifecycle_stage: active
+run_id: e3a4bd60a7fe468e9b41263e11fc1cc4
+run_name: lyrical-lynx-622
+run_uuid: e3a4bd60a7fe468e9b41263e11fc1cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702295544883
+status: 3
+tags: []
+user_id: tarik

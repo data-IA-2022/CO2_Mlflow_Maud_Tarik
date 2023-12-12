@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/601757128816916662/d4dc00fdb9fc458981278aceadf89df0/artifacts
+end_time: 1702295438554
+entry_point_name: ''
+experiment_id: '601757128816916662'
+lifecycle_stage: active
+run_id: d4dc00fdb9fc458981278aceadf89df0
+run_name: amazing-cod-617
+run_uuid: d4dc00fdb9fc458981278aceadf89df0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702295437179
+status: 3
+tags: []
+user_id: tarik

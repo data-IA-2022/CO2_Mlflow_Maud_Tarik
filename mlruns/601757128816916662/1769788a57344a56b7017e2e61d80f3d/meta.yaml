@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/601757128816916662/1769788a57344a56b7017e2e61d80f3d/artifacts
+deleted_time: 1702295704833
+end_time: 1702295364604
+entry_point_name: ''
+experiment_id: '601757128816916662'
+lifecycle_stage: deleted
+run_id: 1769788a57344a56b7017e2e61d80f3d
+run_name: serious-hawk-440
+run_uuid: 1769788a57344a56b7017e2e61d80f3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702295363078
+status: 3
+tags: []
+user_id: tarik

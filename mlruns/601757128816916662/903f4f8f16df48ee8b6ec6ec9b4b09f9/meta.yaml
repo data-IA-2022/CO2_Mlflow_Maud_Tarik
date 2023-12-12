@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/601757128816916662/903f4f8f16df48ee8b6ec6ec9b4b09f9/artifacts
+deleted_time: 1702295490003
+end_time: 1702293991874
+entry_point_name: ''
+experiment_id: '601757128816916662'
+lifecycle_stage: deleted
+run_id: 903f4f8f16df48ee8b6ec6ec9b4b09f9
+run_name: loud-mare-576
+run_uuid: 903f4f8f16df48ee8b6ec6ec9b4b09f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702293989861
+status: 3
+tags: []
+user_id: tarik
