@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1702390811106
+current_stage: None
+description: null
+last_updated_timestamp: 1702390811106
+name: model_tracking
+run_id: f44a22316509441d890bf3bdf88fd4e7
+run_link: null
+source: file:///home/tarik/Projet_ml_flow/CO2_Mlflow_Maud_Tarik/mlruns/720243650590451200/f44a22316509441d890bf3bdf88fd4e7/artifacts/data/best_model_GradientBoostingRegressor.pkl
+status: READY
+status_message: null
+storage_location: file:///home/tarik/Projet_ml_flow/CO2_Mlflow_Maud_Tarik/mlruns/720243650590451200/f44a22316509441d890bf3bdf88fd4e7/artifacts/data/best_model_GradientBoostingRegressor.pkl
+user_id: null
+version: 1

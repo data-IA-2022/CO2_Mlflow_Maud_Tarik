@@ -1,0 +1,15 @@
+artifact_uri: file:///home/tarik/Projet_ml_flow/CO2_Mlflow_Maud_Tarik/mlruns/720243650590451200/31107720f4e94c0892cf55e5c53cd8a4/artifacts
+end_time: 1702390785677
+entry_point_name: ''
+experiment_id: '720243650590451200'
+lifecycle_stage: active
+run_id: 31107720f4e94c0892cf55e5c53cd8a4
+run_name: charming-jay-528
+run_uuid: 31107720f4e94c0892cf55e5c53cd8a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702390773994
+status: 4
+tags: []
+user_id: tarik
